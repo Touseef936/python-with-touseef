@@ -1,0 +1,1001 @@
+product_id,weight,fat,visibility,category,price,store_id,store_year,store_size,region,store_type,sales
+PRD0001,10.62,Low Fat,0.026,drinks,170.21,STR103,2012,high,north,hypermarket,3716.16
+PRD0002,19.26,Regular,0.024,frozen,79.71,STR104,2019,medium,north,supermarket,4719.67
+PRD0003,15.98,Regular,0.0013,household,105.47,STR103,2002,medium,north,supermarket,4605.15
+PRD0004,13.98,Regular,0.0171,drinks,33.73,STR105,2019,high,west,hypermarket,4757.34
+PRD0005,7.34,Regular,0.019,dairy,81.18,STR101,2003,small,east,supermarket,1601.22
+PRD0006,7.34,Low Fat,0.0199,frozen,115.45,STR105,2010,large,east,hypermarket,1092.04
+PRD0007,5.87,Regular,0.029,household,39.55,STR101,2001,small,west,supermarket,1860.25
+PRD0008,17.99,Low Fat,0.0267,dairy,113.49,STR102,2013,high,north,supermarket,4527.88
+PRD0009,14.02,Low Fat,0.0304,dairy,187.61,STR105,2011,medium,north,supermarket,4874.24
+PRD0010,15.62,Low Fat,0.0382,dairy,47.92,STR105,2016,large,south,supermarket,4366.96
+PRD0011,5.31,Low Fat,0.0406,dairy,159.95,STR104,2011,small,south,supermarket,995.08
+PRD0012,19.55,Low Fat,0.0359,drinks,99.64,STR103,2011,small,north,hypermarket,4763.43
+PRD0013,17.49,Regular,0.0478,fruits,141.38,STR101,2000,high,west,supermarket,2405.11
+PRD0014,8.19,Regular,0.0009,drinks,74.24,STR101,2012,large,north,supermarket,541.9
+PRD0015,7.73,Regular,0.0098,drinks,57.11,STR104,2013,medium,south,supermarket,2490.77
+PRD0016,7.75,Regular,0.0004,household,57.28,STR104,2001,high,north,hypermarket,707.31
+PRD0017,9.56,Low Fat,0.0324,household,41.98,STR103,2011,large,west,hypermarket,2947.45
+PRD0018,12.87,Regular,0.0449,fruits,61.56,STR103,2020,small,east,hypermarket,2023.49
+PRD0019,11.48,Low Fat,0.0122,household,142.92,STR105,2015,high,west,hypermarket,2630.46
+PRD0020,9.37,Regular,0.0464,snacks,179.89,STR102,2003,small,west,hypermarket,3259.27
+PRD0021,14.18,Low Fat,0.003,fruits,168.4,STR103,2007,small,south,supermarket,4409.6
+PRD0022,7.09,Low Fat,0.0467,household,146.47,STR104,2001,high,west,supermarket,3478.56
+PRD0023,9.38,Regular,0.0176,fruits,48.77,STR103,2009,high,west,supermarket,2453.22
+PRD0024,10.5,Low Fat,0.0051,drinks,79.16,STR101,2008,high,south,hypermarket,4187.43
+PRD0025,11.84,Low Fat,0.0243,drinks,82.67,STR102,2014,high,south,hypermarket,4575.12
+PRD0026,16.78,Regular,0.0128,fruits,72.49,STR105,2012,high,east,supermarket,1038.92
+PRD0027,8.0,Low Fat,0.0142,snacks,117.55,STR101,2016,small,north,hypermarket,2893.7
+PRD0028,12.71,Regular,0.0154,snacks,121.04,STR101,2015,medium,west,hypermarket,1780.3
+PRD0029,13.89,Regular,0.0402,fruits,90.67,STR102,2001,medium,south,hypermarket,711.78
+PRD0030,5.7,Regular,0.027,household,90.14,STR105,2019,high,east,supermarket,3508.46
+PRD0031,14.11,Low Fat,0.0156,frozen,170.85,STR104,2019,small,north,supermarket,4382.47
+PRD0032,7.56,Low Fat,0.0305,snacks,164.18,STR105,2013,medium,south,hypermarket,1233.06
+PRD0033,5.98,Low Fat,0.0358,dairy,82.33,STR103,2002,medium,north,hypermarket,4155.86
+PRD0034,19.23,Regular,0.0136,drinks,185.34,STR101,2011,medium,north,hypermarket,4340.28
+PRD0035,19.48,Low Fat,0.0207,fruits,191.98,STR103,2007,small,west,hypermarket,4614.53
+PRD0036,17.13,Regular,0.0061,dairy,85.55,STR104,2001,high,west,supermarket,1693.78
+PRD0037,9.57,Regular,0.0091,fruits,90.25,STR103,2003,high,south,hypermarket,4567.79
+PRD0038,6.47,Low Fat,0.0341,drinks,115.96,STR105,2013,high,north,supermarket,1942.98
+PRD0039,15.26,Regular,0.0091,drinks,189.99,STR103,2015,large,south,supermarket,2985.52
+PRD0040,11.6,Low Fat,0.0263,snacks,178.97,STR104,2018,large,south,supermarket,727.28
+PRD0041,6.83,Low Fat,0.0355,snacks,47.44,STR104,2001,large,north,hypermarket,697.46
+PRD0042,12.43,Low Fat,0.0053,dairy,96.76,STR104,2011,small,south,supermarket,3741.68
+PRD0043,5.52,Low Fat,0.0284,fruits,124.07,STR105,2013,medium,north,supermarket,2500.16
+PRD0044,18.64,Low Fat,0.0128,drinks,115.53,STR104,2005,medium,north,hypermarket,1653.32
+PRD0045,8.88,Regular,0.0481,dairy,62.96,STR101,2012,small,north,hypermarket,1356.86
+PRD0046,14.94,Regular,0.0242,frozen,176.0,STR104,2003,small,north,hypermarket,3514.79
+PRD0047,9.68,Regular,0.0403,dairy,145.08,STR103,2017,high,east,supermarket,501.81
+PRD0048,12.8,Low Fat,0.0275,household,172.44,STR103,2011,high,north,hypermarket,4126.51
+PRD0049,13.2,Low Fat,0.0022,dairy,175.99,STR103,2019,large,west,supermarket,856.62
+PRD0050,7.77,Low Fat,0.0317,household,157.22,STR105,2020,large,west,supermarket,1361.7
+PRD0051,19.54,Regular,0.0476,household,104.67,STR103,2018,small,west,hypermarket,2238.06
+PRD0052,16.63,Low Fat,0.0301,household,133.79,STR105,2007,large,north,supermarket,2681.86
+PRD0053,19.09,Regular,0.041,frozen,57.26,STR105,2006,medium,west,supermarket,2097.48
+PRD0054,18.42,Regular,0.0442,dairy,144.52,STR104,2015,small,east,supermarket,1943.2
+PRD0055,13.97,Low Fat,0.0114,dairy,60.47,STR101,2018,small,south,supermarket,4837.62
+PRD0056,18.83,Low Fat,0.0106,frozen,147.97,STR104,2005,medium,north,hypermarket,3387.11
+PRD0057,6.33,Regular,0.0305,drinks,69.03,STR104,2019,high,west,supermarket,605.45
+PRD0058,7.94,Low Fat,0.0206,snacks,49.98,STR105,2020,high,east,hypermarket,2435.79
+PRD0059,5.68,Regular,0.042,dairy,58.1,STR105,2010,medium,south,supermarket,4437.54
+PRD0060,9.88,Low Fat,0.045,snacks,30.34,STR103,2004,medium,east,supermarket,1856.55
+PRD0061,10.83,Low Fat,0.0177,fruits,152.19,STR103,2015,large,west,hypermarket,925.5
+PRD0062,9.07,Regular,0.0118,fruits,154.51,STR104,2006,small,east,supermarket,3912.73
+PRD0063,17.43,Low Fat,0.039,frozen,117.54,STR102,2004,large,south,supermarket,3227.06
+PRD0064,10.35,Regular,0.0137,fruits,57.43,STR102,2010,medium,west,supermarket,3066.41
+PRD0065,9.21,Low Fat,0.0411,fruits,44.2,STR103,2014,large,south,supermarket,741.09
+PRD0066,13.14,Regular,0.0212,drinks,33.25,STR102,2002,medium,east,supermarket,1132.25
+PRD0067,7.11,Regular,0.0334,drinks,58.18,STR103,2004,large,north,supermarket,3301.47
+PRD0068,17.03,Low Fat,0.0048,drinks,181.45,STR105,2020,large,north,hypermarket,1435.21
+PRD0069,6.12,Regular,0.0312,fruits,71.06,STR104,2004,high,north,hypermarket,2768.32
+PRD0070,19.8,Low Fat,0.0226,frozen,90.23,STR101,2008,medium,north,hypermarket,2951.97
+PRD0071,16.58,Low Fat,0.0293,household,47.91,STR104,2014,large,south,supermarket,1775.78
+PRD0072,7.98,Low Fat,0.0084,household,67.8,STR103,2002,small,north,supermarket,4767.91
+PRD0073,5.08,Regular,0.0368,snacks,118.27,STR103,2005,large,south,supermarket,4291.09
+PRD0074,17.23,Regular,0.0431,household,133.32,STR104,2016,large,west,hypermarket,3750.68
+PRD0075,15.6,Low Fat,0.0108,household,71.71,STR103,2020,small,north,supermarket,850.97
+PRD0076,15.94,Low Fat,0.0048,drinks,39.81,STR102,2007,medium,south,hypermarket,977.59
+PRD0077,16.57,Regular,0.0012,drinks,96.48,STR102,2020,high,north,supermarket,2717.52
+PRD0078,6.11,Low Fat,0.0321,fruits,69.81,STR103,2010,high,north,supermarket,1223.21
+PRD0079,10.38,Low Fat,0.0304,snacks,67.32,STR103,2005,high,north,supermarket,4902.19
+PRD0080,6.74,Regular,0.0273,dairy,193.18,STR102,2007,small,south,hypermarket,1213.34
+PRD0081,17.95,Low Fat,0.0116,snacks,134.77,STR103,2009,large,east,supermarket,2693.61
+PRD0082,14.35,Regular,0.0195,snacks,124.67,STR103,2002,medium,north,hypermarket,2138.54
+PRD0083,9.96,Low Fat,0.0297,frozen,100.68,STR104,2013,large,north,supermarket,3377.24
+PRD0084,5.95,Regular,0.0248,fruits,102.92,STR101,2013,high,west,supermarket,1080.66
+PRD0085,9.66,Low Fat,0.0494,frozen,121.95,STR102,2009,large,east,hypermarket,2436.42
+PRD0086,9.88,Low Fat,0.0068,snacks,148.39,STR104,2011,small,south,supermarket,1736.17
+PRD0087,15.94,Regular,0.0348,snacks,149.36,STR101,2005,small,west,supermarket,4494.88
+PRD0088,14.56,Low Fat,0.0202,snacks,59.19,STR103,2011,medium,north,supermarket,682.64
+PRD0089,18.31,Regular,0.0214,household,115.02,STR103,2013,medium,west,supermarket,4611.77
+PRD0090,12.08,Low Fat,0.0359,frozen,100.03,STR104,2001,high,west,hypermarket,4248.47
+PRD0091,6.79,Regular,0.0346,snacks,177.99,STR103,2008,medium,north,hypermarket,1839.07
+PRD0092,15.7,Regular,0.0496,drinks,137.34,STR105,2009,large,east,supermarket,4051.81
+PRD0093,16.41,Regular,0.0064,fruits,120.53,STR104,2016,small,east,supermarket,640.46
+PRD0094,13.42,Regular,0.0052,fruits,49.62,STR101,2016,small,west,hypermarket,4850.89
+PRD0095,16.56,Low Fat,0.0362,drinks,132.96,STR104,2002,small,north,supermarket,2869.68
+PRD0096,12.41,Low Fat,0.0289,fruits,49.92,STR102,2018,medium,south,hypermarket,1864.76
+PRD0097,12.84,Regular,0.0137,household,87.33,STR104,2000,small,west,supermarket,2131.62
+PRD0098,11.41,Regular,0.004,household,54.28,STR103,2011,small,south,hypermarket,798.82
+PRD0099,5.38,Regular,0.0043,dairy,147.65,STR103,2006,small,west,hypermarket,4952.07
+PRD0100,6.62,Low Fat,0.0447,dairy,65.06,STR105,2003,high,west,hypermarket,676.81
+PRD0101,5.47,Low Fat,0.0096,dairy,96.62,STR105,2009,high,north,hypermarket,3447.08
+PRD0102,14.55,Low Fat,0.0162,fruits,182.26,STR105,2012,medium,north,supermarket,2492.31
+PRD0103,9.72,Low Fat,0.0113,household,64.73,STR101,2001,small,south,supermarket,4770.12
+PRD0104,12.63,Regular,0.0177,household,116.33,STR105,2009,medium,south,hypermarket,1607.0
+PRD0105,18.61,Regular,0.0035,household,101.28,STR101,2020,small,east,hypermarket,2894.39
+PRD0106,8.74,Regular,0.026,drinks,33.08,STR105,2003,small,north,hypermarket,2670.6
+PRD0107,11.16,Low Fat,0.0034,household,164.77,STR101,2017,small,west,hypermarket,3662.9
+PRD0108,16.33,Low Fat,0.04,drinks,41.74,STR104,2004,medium,west,supermarket,806.05
+PRD0109,8.43,Low Fat,0.0117,dairy,110.62,STR104,2018,medium,east,hypermarket,1372.05
+PRD0110,6.15,Regular,0.027,dairy,125.32,STR103,2001,small,north,hypermarket,1465.54
+PRD0111,9.35,Regular,0.044,fruits,136.83,STR101,2011,large,west,hypermarket,3821.68
+PRD0112,7.42,Low Fat,0.0325,dairy,147.07,STR102,2016,medium,east,hypermarket,1351.12
+PRD0113,18.95,Regular,0.0266,fruits,73.06,STR103,2009,high,east,hypermarket,3080.71
+PRD0114,17.12,Low Fat,0.0162,snacks,31.7,STR104,2001,medium,west,hypermarket,1468.6
+PRD0115,14.5,Low Fat,0.0167,snacks,152.99,STR101,2005,small,west,hypermarket,4377.31
+PRD0116,18.07,Regular,0.0335,frozen,121.06,STR105,2007,large,south,supermarket,4739.83
+PRD0117,17.06,Low Fat,0.0497,fruits,172.14,STR102,2018,small,north,hypermarket,2833.22
+PRD0118,7.8,Regular,0.0331,frozen,169.64,STR104,2010,high,south,hypermarket,2085.39
+PRD0119,18.39,Low Fat,0.0279,frozen,173.37,STR103,2011,medium,east,hypermarket,1553.26
+PRD0120,13.09,Regular,0.0365,snacks,112.47,STR101,2008,medium,west,supermarket,724.01
+PRD0121,17.11,Regular,0.0233,fruits,86.72,STR102,2001,small,south,supermarket,1708.25
+PRD0122,18.44,Regular,0.003,snacks,164.56,STR101,2007,small,east,supermarket,3444.06
+PRD0123,9.77,Low Fat,0.0281,frozen,106.72,STR105,2010,high,north,hypermarket,2901.28
+PRD0124,6.65,Low Fat,0.0479,fruits,61.19,STR103,2020,large,west,hypermarket,4748.19
+PRD0125,8.42,Regular,0.0088,frozen,175.35,STR101,2003,high,south,hypermarket,2283.25
+PRD0126,11.41,Regular,0.0345,household,180.04,STR104,2009,large,north,supermarket,3622.39
+PRD0127,17.27,Low Fat,0.01,fruits,109.27,STR103,2020,medium,south,hypermarket,2701.95
+PRD0128,17.91,Low Fat,0.0268,fruits,42.87,STR104,2019,large,east,supermarket,2806.59
+PRD0129,5.1,Low Fat,0.0048,frozen,95.93,STR101,2015,large,north,supermarket,1704.98
+PRD0130,12.66,Regular,0.0225,household,166.6,STR103,2007,medium,south,supermarket,2547.28
+PRD0131,11.26,Low Fat,0.0378,drinks,183.3,STR104,2003,medium,north,supermarket,2618.53
+PRD0132,8.33,Low Fat,0.0174,snacks,64.59,STR105,2009,medium,east,supermarket,3679.89
+PRD0133,6.8,Regular,0.0332,frozen,41.39,STR105,2011,high,north,hypermarket,4732.88
+PRD0134,10.06,Low Fat,0.0398,fruits,179.15,STR101,2013,medium,south,hypermarket,1981.95
+PRD0135,19.14,Low Fat,0.0464,snacks,96.2,STR103,2015,small,east,supermarket,689.9
+PRD0136,9.85,Low Fat,0.0117,snacks,122.1,STR102,2017,medium,west,hypermarket,2733.33
+PRD0137,12.78,Regular,0.02,snacks,194.57,STR103,2020,medium,south,hypermarket,2950.08
+PRD0138,15.55,Regular,0.0076,drinks,41.32,STR105,2020,medium,south,supermarket,1257.98
+PRD0139,10.45,Regular,0.0496,dairy,140.21,STR104,2011,large,east,supermarket,3922.09
+PRD0140,19.58,Regular,0.0464,frozen,42.6,STR102,2017,high,east,hypermarket,4932.18
+PRD0141,19.44,Regular,0.027,dairy,93.83,STR101,2006,medium,west,hypermarket,4755.99
+PRD0142,8.78,Regular,0.0421,dairy,166.65,STR102,2019,high,south,hypermarket,1386.98
+PRD0143,12.46,Regular,0.026,dairy,103.69,STR101,2006,small,east,hypermarket,4439.13
+PRD0144,9.51,Low Fat,0.0312,snacks,199.52,STR102,2008,small,west,supermarket,3670.22
+PRD0145,9.27,Low Fat,0.0045,household,125.04,STR101,2000,medium,west,hypermarket,2542.31
+PRD0146,5.55,Regular,0.0378,snacks,84.6,STR101,2005,small,east,supermarket,2932.75
+PRD0147,14.14,Low Fat,0.0064,snacks,67.42,STR102,2005,high,south,supermarket,4323.2
+PRD0148,12.54,Low Fat,0.0413,fruits,89.59,STR102,2011,large,north,hypermarket,2660.61
+PRD0149,5.77,Regular,0.0391,fruits,93.33,STR101,2011,medium,north,hypermarket,2179.43
+PRD0150,9.18,Low Fat,0.0354,dairy,41.68,STR105,2009,small,west,hypermarket,2719.61
+PRD0151,18.62,Low Fat,0.0018,snacks,92.83,STR102,2005,high,north,supermarket,3106.08
+PRD0152,8.59,Low Fat,0.0152,dairy,108.92,STR103,2016,high,north,supermarket,1350.85
+PRD0153,7.17,Low Fat,0.0132,fruits,152.87,STR104,2018,small,east,supermarket,4554.08
+PRD0154,12.34,Low Fat,0.018,household,141.64,STR101,2017,high,west,supermarket,3533.84
+PRD0155,19.78,Regular,0.0044,frozen,150.49,STR101,2005,high,south,hypermarket,3349.71
+PRD0156,8.63,Regular,0.0468,dairy,31.42,STR104,2018,medium,west,supermarket,947.73
+PRD0157,15.08,Regular,0.0277,household,67.0,STR105,2009,high,east,supermarket,3218.78
+PRD0158,16.42,Low Fat,0.0153,frozen,142.49,STR104,2007,small,north,hypermarket,1044.32
+PRD0159,8.56,Regular,0.0198,drinks,112.28,STR102,2020,medium,south,supermarket,854.14
+PRD0160,15.92,Low Fat,0.0224,dairy,30.9,STR104,2005,small,west,supermarket,2872.9
+PRD0161,10.52,Low Fat,0.03,dairy,166.76,STR101,2020,large,north,hypermarket,2312.53
+PRD0162,14.48,Low Fat,0.0258,drinks,161.38,STR104,2006,small,west,supermarket,3149.65
+PRD0163,14.5,Low Fat,0.046,drinks,123.23,STR103,2000,small,south,supermarket,901.5
+PRD0164,13.04,Regular,0.0248,dairy,41.3,STR102,2017,medium,west,supermarket,2439.42
+PRD0165,6.35,Regular,0.0496,drinks,160.31,STR104,2019,high,west,supermarket,1286.54
+PRD0166,17.53,Low Fat,0.0426,snacks,129.23,STR101,2011,small,west,hypermarket,4941.95
+PRD0167,9.81,Regular,0.0104,frozen,162.93,STR102,2015,medium,north,supermarket,3025.18
+PRD0168,7.8,Low Fat,0.0465,frozen,157.8,STR101,2009,large,south,hypermarket,3593.47
+PRD0169,5.61,Regular,0.0058,frozen,166.51,STR105,2009,medium,south,supermarket,1964.38
+PRD0170,13.86,Regular,0.0409,snacks,118.06,STR103,2013,medium,north,hypermarket,926.33
+PRD0171,15.16,Low Fat,0.019,drinks,53.86,STR105,2019,high,north,hypermarket,4891.42
+PRD0172,5.25,Regular,0.0439,household,144.1,STR103,2009,small,north,hypermarket,1788.17
+PRD0173,12.68,Low Fat,0.0434,drinks,135.48,STR104,2009,large,east,supermarket,2407.14
+PRD0174,8.4,Regular,0.0403,dairy,156.18,STR102,2010,medium,west,supermarket,3424.39
+PRD0175,14.68,Low Fat,0.0395,fruits,58.88,STR104,2001,small,west,supermarket,611.14
+PRD0176,7.62,Low Fat,0.0152,frozen,63.15,STR103,2019,small,south,hypermarket,4146.17
+PRD0177,15.36,Regular,0.004,drinks,181.37,STR103,2007,medium,west,supermarket,2914.6
+PRD0178,10.8,Regular,0.0201,household,157.5,STR103,2006,small,east,supermarket,1751.98
+PRD0179,19.05,Low Fat,0.0087,dairy,184.4,STR101,2007,medium,north,supermarket,777.24
+PRD0180,7.06,Regular,0.0347,snacks,158.98,STR102,2000,medium,south,supermarket,1231.24
+PRD0181,10.12,Regular,0.0173,snacks,131.52,STR104,2020,medium,south,hypermarket,4527.65
+PRD0182,6.7,Low Fat,0.0488,household,141.2,STR104,2001,large,west,hypermarket,3587.11
+PRD0183,18.87,Low Fat,0.032,dairy,181.15,STR105,2017,medium,south,supermarket,1624.56
+PRD0184,18.16,Regular,0.0411,frozen,128.4,STR103,2014,high,north,supermarket,795.2
+PRD0185,8.87,Low Fat,0.0066,drinks,137.51,STR103,2000,small,south,supermarket,3607.77
+PRD0186,14.9,Low Fat,0.0431,dairy,56.6,STR103,2004,large,north,hypermarket,3075.83
+PRD0187,17.26,Low Fat,0.0461,snacks,110.57,STR104,2001,small,east,supermarket,2320.34
+PRD0188,13.33,Regular,0.0244,household,151.79,STR105,2019,large,east,hypermarket,2136.25
+PRD0189,12.94,Regular,0.0303,household,76.06,STR101,2002,high,north,hypermarket,1475.66
+PRD0190,8.63,Low Fat,0.0382,drinks,64.38,STR102,2018,large,west,supermarket,3513.25
+PRD0191,6.4,Regular,0.0087,household,83.35,STR101,2017,large,south,supermarket,4868.01
+PRD0192,18.46,Low Fat,0.0251,household,71.06,STR104,2017,large,west,supermarket,1290.72
+PRD0193,18.51,Regular,0.0199,dairy,66.54,STR103,2013,small,south,hypermarket,3187.02
+PRD0194,14.5,Low Fat,0.0073,frozen,102.22,STR102,2007,medium,east,hypermarket,2408.83
+PRD0195,10.09,Low Fat,0.0184,drinks,184.33,STR104,2011,small,east,supermarket,2510.1
+PRD0196,10.24,Regular,0.0034,dairy,116.2,STR104,2020,medium,east,hypermarket,1643.66
+PRD0197,15.89,Low Fat,0.0013,frozen,61.95,STR104,2009,small,south,supermarket,4213.11
+PRD0198,18.46,Regular,0.0068,dairy,43.09,STR102,2019,high,east,supermarket,2683.65
+PRD0199,18.31,Regular,0.0482,fruits,148.35,STR102,2016,high,east,hypermarket,2945.33
+PRD0200,16.7,Low Fat,0.0275,dairy,95.08,STR105,2010,large,east,hypermarket,1871.42
+PRD0201,14.63,Low Fat,0.0483,household,169.71,STR105,2001,high,east,hypermarket,1318.14
+PRD0202,6.26,Regular,0.0216,frozen,142.12,STR101,2003,large,west,hypermarket,886.6
+PRD0203,7.42,Low Fat,0.0156,drinks,165.36,STR102,2000,medium,east,supermarket,3713.54
+PRD0204,18.48,Low Fat,0.0253,drinks,76.23,STR102,2014,high,east,supermarket,1383.05
+PRD0205,14.1,Low Fat,0.022,frozen,147.7,STR102,2012,medium,west,supermarket,3605.34
+PRD0206,5.14,Low Fat,0.0053,household,74.89,STR105,2007,small,west,hypermarket,2256.69
+PRD0207,6.52,Low Fat,0.032,snacks,189.64,STR104,2003,medium,south,supermarket,2370.99
+PRD0208,14.95,Regular,0.0108,dairy,138.18,STR103,2009,small,north,hypermarket,2611.3
+PRD0209,5.08,Regular,0.031,household,85.17,STR105,2018,medium,east,hypermarket,2154.69
+PRD0210,7.41,Low Fat,0.0325,fruits,75.82,STR102,2017,medium,east,hypermarket,952.79
+PRD0211,13.23,Low Fat,0.0076,frozen,62.46,STR105,2004,high,east,supermarket,1893.34
+PRD0212,15.38,Low Fat,0.0031,dairy,148.09,STR101,2018,medium,south,hypermarket,3486.8
+PRD0213,14.78,Regular,0.039,drinks,67.18,STR102,2015,high,east,hypermarket,3496.03
+PRD0214,8.36,Low Fat,0.023,snacks,131.2,STR101,2000,high,north,hypermarket,1788.01
+PRD0215,15.68,Regular,0.0029,fruits,74.99,STR102,2011,large,west,hypermarket,2570.46
+PRD0216,8.56,Regular,0.0497,drinks,142.53,STR105,2001,large,south,hypermarket,1370.51
+PRD0217,9.88,Regular,0.0029,frozen,168.54,STR104,2020,small,west,hypermarket,1446.67
+PRD0218,16.2,Low Fat,0.0348,dairy,162.26,STR103,2007,medium,east,hypermarket,603.71
+PRD0219,14.74,Regular,0.0492,frozen,159.34,STR101,2017,small,east,hypermarket,4535.36
+PRD0220,17.74,Low Fat,0.012,dairy,61.91,STR105,2015,medium,east,hypermarket,1448.18
+PRD0221,14.86,Regular,0.0071,household,45.03,STR104,2004,large,north,hypermarket,1523.9
+PRD0222,13.52,Low Fat,0.0061,snacks,148.82,STR105,2012,large,north,hypermarket,1758.21
+PRD0223,6.41,Regular,0.0152,household,92.62,STR101,2018,medium,south,hypermarket,1073.34
+PRD0224,10.52,Low Fat,0.0051,household,103.5,STR103,2002,medium,west,supermarket,3376.68
+PRD0225,8.98,Regular,0.0346,frozen,35.3,STR105,2007,large,east,supermarket,838.14
+PRD0226,8.66,Low Fat,0.0031,snacks,74.13,STR102,2011,large,east,hypermarket,1103.91
+PRD0227,19.6,Low Fat,0.0255,dairy,35.72,STR104,2001,small,east,hypermarket,3401.41
+PRD0228,10.9,Low Fat,0.0498,dairy,179.46,STR105,2010,large,east,hypermarket,2028.47
+PRD0229,18.38,Low Fat,0.0407,fruits,71.38,STR104,2011,medium,north,supermarket,3685.77
+PRD0230,14.47,Regular,0.0308,drinks,124.75,STR102,2017,small,west,supermarket,3008.41
+PRD0231,16.92,Regular,0.0153,fruits,36.63,STR103,2012,medium,west,supermarket,1652.1
+PRD0232,12.54,Low Fat,0.0312,fruits,143.36,STR103,2004,high,south,hypermarket,3428.73
+PRD0233,13.65,Regular,0.0264,dairy,84.91,STR102,2011,small,north,hypermarket,1023.23
+PRD0234,12.39,Low Fat,0.0213,frozen,182.65,STR104,2001,medium,east,hypermarket,2913.85
+PRD0235,7.93,Low Fat,0.0065,household,180.98,STR105,2004,large,west,hypermarket,2467.17
+PRD0236,15.84,Regular,0.0443,household,85.3,STR102,2006,high,west,supermarket,1705.43
+PRD0237,9.21,Low Fat,0.0225,household,183.16,STR101,2011,medium,north,hypermarket,3218.02
+PRD0238,5.36,Low Fat,0.0097,snacks,199.35,STR104,2015,small,south,supermarket,4421.0
+PRD0239,14.68,Regular,0.0184,dairy,170.32,STR103,2007,medium,south,supermarket,4995.07
+PRD0240,7.66,Low Fat,0.0207,frozen,173.63,STR102,2008,high,east,hypermarket,3234.93
+PRD0241,19.11,Low Fat,0.0414,snacks,72.33,STR103,2014,small,south,supermarket,2321.18
+PRD0242,19.31,Low Fat,0.0367,drinks,128.04,STR104,2004,high,west,supermarket,1513.43
+PRD0243,18.72,Low Fat,0.0385,frozen,41.43,STR103,2012,medium,south,supermarket,1656.93
+PRD0244,10.55,Regular,0.0006,fruits,46.14,STR102,2004,large,east,supermarket,2657.55
+PRD0245,5.23,Regular,0.0208,frozen,199.81,STR104,2010,large,west,hypermarket,2152.75
+PRD0246,18.92,Regular,0.0241,frozen,85.53,STR101,2009,medium,south,hypermarket,4612.17
+PRD0247,11.42,Low Fat,0.001,household,157.19,STR102,2019,medium,south,supermarket,2157.33
+PRD0248,19.5,Low Fat,0.013,frozen,167.13,STR105,2012,medium,north,hypermarket,2180.5
+PRD0249,19.45,Regular,0.038,fruits,175.86,STR102,2008,small,east,supermarket,2225.91
+PRD0250,17.8,Low Fat,0.0069,fruits,199.6,STR104,2020,high,south,hypermarket,4264.79
+PRD0251,9.42,Low Fat,0.0268,dairy,71.05,STR102,2013,high,north,hypermarket,3428.55
+PRD0252,10.78,Low Fat,0.0108,frozen,36.86,STR101,2017,high,west,hypermarket,3263.76
+PRD0253,17.77,Low Fat,0.0006,household,99.9,STR101,2014,medium,north,hypermarket,2003.64
+PRD0254,9.75,Regular,0.0121,frozen,52.11,STR105,2009,high,north,hypermarket,4180.57
+PRD0255,7.54,Regular,0.0488,drinks,33.81,STR103,2006,medium,south,supermarket,672.64
+PRD0256,13.35,Regular,0.0401,drinks,91.27,STR104,2007,small,south,hypermarket,4418.59
+PRD0257,19.04,Low Fat,0.048,household,163.24,STR104,2002,large,south,supermarket,2807.37
+PRD0258,15.44,Regular,0.0244,dairy,126.25,STR103,2014,medium,north,supermarket,2292.13
+PRD0259,13.55,Regular,0.0055,dairy,83.17,STR101,2015,medium,west,hypermarket,2737.25
+PRD0260,6.46,Low Fat,0.0274,fruits,141.24,STR101,2003,large,east,supermarket,3503.37
+PRD0261,14.23,Low Fat,0.0227,fruits,69.44,STR102,2020,large,north,hypermarket,557.44
+PRD0262,19.85,Regular,0.0422,snacks,32.44,STR105,2005,small,south,supermarket,4421.98
+PRD0263,7.1,Regular,0.0049,household,159.94,STR105,2000,high,east,supermarket,2510.33
+PRD0264,12.77,Regular,0.0244,frozen,136.04,STR105,2003,medium,west,hypermarket,2043.35
+PRD0265,18.16,Regular,0.0075,household,159.59,STR102,2010,high,east,hypermarket,1122.11
+PRD0266,16.11,Low Fat,0.0162,snacks,36.62,STR105,2011,medium,south,hypermarket,2477.59
+PRD0267,15.46,Regular,0.0369,fruits,172.31,STR103,2004,small,north,hypermarket,2733.45
+PRD0268,15.54,Regular,0.0238,household,135.32,STR102,2020,large,north,supermarket,2316.41
+PRD0269,10.39,Low Fat,0.0188,household,125.78,STR103,2015,small,south,hypermarket,3553.97
+PRD0270,9.4,Regular,0.0197,fruits,136.18,STR102,2012,large,north,supermarket,2394.03
+PRD0271,17.14,Low Fat,0.023,snacks,176.95,STR105,2012,high,south,supermarket,4826.38
+PRD0272,17.15,Low Fat,0.0393,fruits,129.78,STR103,2016,high,north,supermarket,3196.75
+PRD0273,18.01,Low Fat,0.0446,dairy,128.76,STR103,2006,small,north,supermarket,4133.65
+PRD0274,18.7,Regular,0.0478,frozen,198.42,STR103,2007,large,north,supermarket,992.1
+PRD0275,12.67,Regular,0.0393,fruits,158.64,STR102,2012,small,west,supermarket,2287.81
+PRD0276,12.52,Low Fat,0.0158,snacks,105.19,STR104,2015,large,west,hypermarket,2015.81
+PRD0277,16.97,Regular,0.0344,drinks,150.26,STR105,2003,large,south,supermarket,3062.67
+PRD0278,14.75,Regular,0.0219,dairy,96.17,STR103,2007,high,west,supermarket,4375.01
+PRD0279,15.53,Low Fat,0.0127,drinks,68.91,STR104,2015,high,south,supermarket,852.52
+PRD0280,16.94,Low Fat,0.042,fruits,131.46,STR105,2020,large,east,hypermarket,826.59
+PRD0281,18.35,Regular,0.0019,dairy,187.79,STR105,2009,large,east,hypermarket,4326.43
+PRD0282,10.07,Low Fat,0.0451,frozen,187.95,STR103,2011,large,west,supermarket,1457.83
+PRD0283,10.63,Regular,0.0231,fruits,88.12,STR103,2011,high,east,hypermarket,3509.39
+PRD0284,6.41,Regular,0.0319,frozen,119.71,STR102,2004,high,east,supermarket,2942.95
+PRD0285,13.67,Regular,0.033,household,65.98,STR104,2015,medium,north,hypermarket,4248.02
+PRD0286,5.54,Regular,0.0448,drinks,199.26,STR104,2000,large,north,supermarket,1062.9
+PRD0287,11.98,Low Fat,0.0318,dairy,196.79,STR103,2008,medium,south,hypermarket,1084.02
+PRD0288,13.14,Low Fat,0.0307,frozen,140.42,STR105,2011,large,east,hypermarket,3005.68
+PRD0289,9.3,Low Fat,0.0033,snacks,166.75,STR103,2004,high,south,hypermarket,4758.7
+PRD0290,13.86,Low Fat,0.0259,frozen,151.57,STR105,2019,medium,south,supermarket,2367.49
+PRD0291,5.46,Regular,0.0075,snacks,130.84,STR105,2002,medium,east,supermarket,1971.24
+PRD0292,5.56,Regular,0.0369,fruits,39.07,STR103,2004,small,west,supermarket,3230.1
+PRD0293,17.34,Low Fat,0.0256,dairy,107.31,STR101,2001,large,east,hypermarket,4687.02
+PRD0294,10.4,Regular,0.034,frozen,144.71,STR104,2013,high,north,hypermarket,4266.18
+PRD0295,6.91,Regular,0.0021,frozen,145.18,STR105,2001,small,east,supermarket,4979.68
+PRD0296,12.83,Regular,0.0042,dairy,93.43,STR105,2012,small,west,hypermarket,601.56
+PRD0297,16.55,Low Fat,0.0358,frozen,190.09,STR101,2006,large,south,supermarket,1007.86
+PRD0298,8.24,Low Fat,0.0036,snacks,58.45,STR102,2009,small,south,supermarket,3242.6
+PRD0299,14.34,Low Fat,0.0036,frozen,115.06,STR101,2012,large,north,supermarket,4192.59
+PRD0300,6.28,Regular,0.0006,drinks,147.45,STR101,2015,small,north,supermarket,1783.6
+PRD0301,5.78,Low Fat,0.0478,fruits,148.51,STR105,2013,large,north,hypermarket,1576.45
+PRD0302,12.97,Low Fat,0.0369,household,140.27,STR104,2010,high,south,hypermarket,4041.39
+PRD0303,13.11,Low Fat,0.0177,snacks,76.8,STR101,2009,large,north,hypermarket,753.72
+PRD0304,14.56,Low Fat,0.0148,drinks,56.56,STR102,2005,large,east,supermarket,2162.22
+PRD0305,15.89,Low Fat,0.0175,fruits,138.11,STR103,2003,medium,south,hypermarket,2776.14
+PRD0306,19.64,Low Fat,0.0387,dairy,131.88,STR101,2020,high,west,supermarket,3021.57
+PRD0307,12.74,Regular,0.0331,snacks,60.49,STR101,2000,high,south,supermarket,3778.77
+PRD0308,9.84,Regular,0.0093,household,149.87,STR102,2006,high,east,supermarket,2096.81
+PRD0309,16.93,Low Fat,0.0087,fruits,107.38,STR104,2008,small,east,supermarket,3257.08
+PRD0310,9.06,Low Fat,0.0049,household,143.52,STR101,2007,medium,north,supermarket,3134.19
+PRD0311,11.58,Regular,0.033,dairy,172.35,STR101,2004,high,south,supermarket,2964.27
+PRD0312,6.18,Regular,0.0382,dairy,58.85,STR104,2018,small,south,hypermarket,3382.17
+PRD0313,5.38,Low Fat,0.0133,snacks,33.25,STR102,2009,small,south,hypermarket,1667.52
+PRD0314,19.44,Low Fat,0.001,frozen,162.45,STR101,2010,small,west,hypermarket,880.92
+PRD0315,17.54,Low Fat,0.0041,dairy,133.65,STR104,2014,medium,north,hypermarket,1036.72
+PRD0316,15.44,Low Fat,0.0484,fruits,148.94,STR101,2005,small,east,supermarket,1510.62
+PRD0317,11.13,Regular,0.0148,frozen,172.49,STR103,2014,medium,east,supermarket,2750.89
+PRD0318,7.6,Low Fat,0.0385,drinks,166.48,STR105,2004,large,north,hypermarket,4281.99
+PRD0319,7.35,Low Fat,0.0312,household,193.36,STR103,2018,small,east,hypermarket,3655.82
+PRD0320,8.75,Low Fat,0.0191,frozen,121.11,STR101,2018,high,east,hypermarket,4050.68
+PRD0321,13.24,Low Fat,0.0103,household,113.04,STR102,2009,small,north,hypermarket,2079.39
+PRD0322,15.72,Regular,0.0061,frozen,98.32,STR105,2011,large,east,hypermarket,2320.94
+PRD0323,14.9,Regular,0.0308,drinks,56.13,STR103,2003,large,south,hypermarket,2271.57
+PRD0324,9.2,Regular,0.0387,dairy,127.34,STR104,2017,small,west,hypermarket,1363.43
+PRD0325,19.32,Low Fat,0.0322,drinks,77.09,STR102,2015,large,north,hypermarket,775.47
+PRD0326,16.07,Low Fat,0.0265,dairy,186.62,STR103,2007,medium,west,supermarket,3159.12
+PRD0327,13.32,Regular,0.0021,dairy,129.14,STR104,2003,medium,east,supermarket,4951.48
+PRD0328,14.18,Low Fat,0.0484,household,130.78,STR101,2011,small,east,supermarket,1250.73
+PRD0329,11.29,Low Fat,0.0399,fruits,90.34,STR104,2001,medium,south,supermarket,710.08
+PRD0330,8.72,Regular,0.0146,drinks,38.84,STR103,2003,medium,north,hypermarket,4007.89
+PRD0331,10.34,Regular,0.049,frozen,35.4,STR103,2004,high,east,supermarket,1636.64
+PRD0332,16.37,Regular,0.0301,drinks,101.97,STR101,2002,small,north,hypermarket,4233.4
+PRD0333,5.22,Regular,0.0291,household,44.38,STR104,2008,large,north,supermarket,3667.72
+PRD0334,6.74,Low Fat,0.0374,dairy,133.16,STR104,2020,small,north,hypermarket,4755.53
+PRD0335,5.69,Low Fat,0.0406,household,179.77,STR101,2017,medium,north,hypermarket,2340.17
+PRD0336,5.61,Regular,0.0328,snacks,180.1,STR104,2010,high,north,supermarket,3478.86
+PRD0337,17.83,Low Fat,0.0064,snacks,142.04,STR101,2002,small,west,supermarket,2591.85
+PRD0338,15.55,Regular,0.0169,frozen,65.91,STR102,2001,small,south,hypermarket,3337.65
+PRD0339,12.11,Regular,0.0464,household,176.71,STR103,2008,medium,north,hypermarket,2523.2
+PRD0340,6.47,Low Fat,0.0112,frozen,180.64,STR102,2013,medium,west,hypermarket,1348.85
+PRD0341,12.37,Regular,0.0186,frozen,63.43,STR105,2003,small,east,supermarket,2785.54
+PRD0342,12.1,Low Fat,0.0216,snacks,155.36,STR105,2008,medium,north,supermarket,2878.63
+PRD0343,7.6,Low Fat,0.022,frozen,78.71,STR105,2012,medium,east,hypermarket,4147.72
+PRD0344,11.51,Low Fat,0.0306,snacks,166.45,STR101,2017,medium,north,supermarket,3809.84
+PRD0345,10.98,Low Fat,0.0472,dairy,199.53,STR104,2014,medium,west,hypermarket,3487.06
+PRD0346,14.24,Regular,0.012,household,35.1,STR102,2009,medium,west,supermarket,1010.24
+PRD0347,14.53,Low Fat,0.0061,frozen,182.55,STR102,2015,high,west,supermarket,3742.77
+PRD0348,5.68,Regular,0.0099,snacks,135.85,STR102,2011,medium,south,supermarket,2751.37
+PRD0349,10.62,Regular,0.0443,drinks,195.48,STR102,2019,large,east,supermarket,4523.45
+PRD0350,14.39,Regular,0.0323,frozen,109.05,STR105,2004,small,south,supermarket,4639.42
+PRD0351,12.55,Regular,0.0143,fruits,174.06,STR102,2001,high,north,hypermarket,748.2
+PRD0352,17.85,Low Fat,0.0408,dairy,40.61,STR104,2009,high,east,hypermarket,4192.89
+PRD0353,14.88,Low Fat,0.0431,dairy,87.0,STR105,2000,medium,west,supermarket,669.64
+PRD0354,7.44,Regular,0.0423,drinks,41.39,STR102,2006,small,east,hypermarket,2152.26
+PRD0355,6.06,Regular,0.0459,snacks,195.81,STR101,2016,large,west,hypermarket,2940.35
+PRD0356,14.64,Low Fat,0.0126,frozen,168.89,STR103,2015,medium,south,supermarket,1166.45
+PRD0357,5.4,Regular,0.0378,snacks,174.93,STR103,2002,small,south,hypermarket,3858.41
+PRD0358,13.79,Low Fat,0.023,dairy,189.45,STR103,2013,medium,west,supermarket,537.6
+PRD0359,19.1,Regular,0.0421,snacks,44.47,STR105,2009,medium,west,hypermarket,1258.7
+PRD0360,13.63,Low Fat,0.0364,dairy,95.55,STR102,2006,medium,north,hypermarket,3113.59
+PRD0361,10.82,Regular,0.0388,snacks,42.08,STR105,2016,medium,south,hypermarket,3714.74
+PRD0362,14.65,Regular,0.0328,drinks,65.83,STR104,2005,medium,south,hypermarket,4624.89
+PRD0363,11.87,Low Fat,0.0089,household,68.99,STR101,2003,medium,north,hypermarket,3674.73
+PRD0364,13.18,Regular,0.0273,drinks,109.75,STR101,2016,medium,south,hypermarket,3523.01
+PRD0365,19.12,Regular,0.0492,drinks,75.66,STR103,2008,large,west,hypermarket,2274.54
+PRD0366,10.79,Low Fat,0.0469,household,47.17,STR103,2003,high,east,supermarket,505.78
+PRD0367,19.42,Regular,0.0022,household,58.47,STR103,2006,large,east,supermarket,1040.72
+PRD0368,18.58,Low Fat,0.0082,frozen,55.04,STR102,2001,medium,south,supermarket,2905.5
+PRD0369,7.94,Low Fat,0.0066,frozen,195.42,STR104,2016,medium,north,supermarket,3538.08
+PRD0370,6.04,Regular,0.0363,drinks,159.08,STR104,2007,large,west,hypermarket,2378.52
+PRD0371,6.51,Regular,0.0409,drinks,194.52,STR104,2014,large,east,hypermarket,3788.06
+PRD0372,5.27,Regular,0.0107,dairy,104.76,STR104,2014,high,west,hypermarket,2848.38
+PRD0373,6.42,Regular,0.0253,dairy,77.32,STR103,2007,large,south,supermarket,833.79
+PRD0374,15.25,Regular,0.042,frozen,165.71,STR101,2015,high,south,supermarket,1364.07
+PRD0375,6.07,Regular,0.0366,fruits,85.46,STR103,2018,medium,east,supermarket,4279.99
+PRD0376,9.78,Regular,0.0271,fruits,80.9,STR104,2010,small,south,hypermarket,3762.11
+PRD0377,17.67,Low Fat,0.0295,frozen,69.53,STR103,2001,small,north,supermarket,4526.43
+PRD0378,5.35,Regular,0.0254,dairy,52.05,STR104,2016,small,south,hypermarket,1029.01
+PRD0379,17.22,Low Fat,0.0149,dairy,73.6,STR105,2015,small,south,supermarket,4956.0
+PRD0380,9.23,Regular,0.0283,fruits,90.4,STR101,2014,medium,south,hypermarket,1442.33
+PRD0381,6.77,Regular,0.0344,snacks,144.58,STR105,2012,small,west,supermarket,553.01
+PRD0382,15.45,Low Fat,0.0437,snacks,40.64,STR102,2014,large,west,hypermarket,4988.4
+PRD0383,14.43,Regular,0.0318,dairy,65.79,STR103,2003,large,east,supermarket,1764.83
+PRD0384,18.16,Regular,0.0381,snacks,167.53,STR102,2015,small,east,supermarket,3506.09
+PRD0385,16.03,Low Fat,0.008,household,54.98,STR103,2011,large,east,hypermarket,1295.07
+PRD0386,17.05,Regular,0.0231,frozen,88.25,STR105,2003,high,south,hypermarket,3111.03
+PRD0387,9.23,Regular,0.0005,frozen,176.99,STR104,2002,medium,west,supermarket,4568.16
+PRD0388,7.66,Regular,0.0123,dairy,56.34,STR104,2016,small,north,hypermarket,1940.82
+PRD0389,16.26,Low Fat,0.0363,drinks,44.07,STR103,2017,small,south,supermarket,3516.14
+PRD0390,17.1,Regular,0.0496,fruits,112.37,STR104,2017,medium,south,hypermarket,1345.57
+PRD0391,19.86,Regular,0.005,dairy,81.41,STR105,2016,large,south,supermarket,3311.58
+PRD0392,11.19,Regular,0.0201,snacks,125.78,STR104,2011,medium,north,hypermarket,2014.03
+PRD0393,10.58,Regular,0.04,fruits,166.65,STR105,2020,medium,east,supermarket,1450.44
+PRD0394,16.65,Low Fat,0.0102,drinks,53.32,STR102,2003,large,north,supermarket,1909.32
+PRD0395,10.11,Low Fat,0.0278,snacks,128.72,STR105,2011,medium,east,supermarket,1304.78
+PRD0396,18.96,Regular,0.0367,household,115.94,STR101,2020,large,north,hypermarket,4558.62
+PRD0397,17.88,Regular,0.0308,snacks,54.49,STR101,2019,large,west,supermarket,2287.34
+PRD0398,11.43,Low Fat,0.0094,household,136.08,STR101,2014,medium,south,hypermarket,1603.76
+PRD0399,16.26,Low Fat,0.0178,fruits,76.52,STR103,2015,high,south,hypermarket,2517.84
+PRD0400,16.32,Regular,0.0392,household,112.93,STR103,2004,large,south,hypermarket,1942.41
+PRD0401,6.55,Low Fat,0.0277,fruits,43.99,STR103,2020,medium,east,supermarket,3849.89
+PRD0402,18.54,Regular,0.0003,fruits,108.13,STR105,2014,large,north,hypermarket,4870.49
+PRD0403,12.58,Low Fat,0.038,fruits,82.1,STR103,2016,high,west,hypermarket,2471.15
+PRD0404,17.4,Low Fat,0.0018,fruits,169.8,STR102,2017,high,north,hypermarket,4374.65
+PRD0405,9.8,Low Fat,0.0373,fruits,39.69,STR101,2004,small,south,supermarket,3046.38
+PRD0406,18.43,Low Fat,0.0101,snacks,101.16,STR105,2012,large,west,hypermarket,1207.56
+PRD0407,10.84,Regular,0.0479,fruits,107.93,STR101,2018,large,west,hypermarket,3607.8
+PRD0408,5.16,Low Fat,0.0184,snacks,153.25,STR103,2012,medium,south,hypermarket,2810.46
+PRD0409,18.58,Low Fat,0.0163,fruits,127.63,STR105,2017,large,north,hypermarket,3427.73
+PRD0410,6.37,Regular,0.0074,household,143.43,STR104,2013,small,south,supermarket,4503.59
+PRD0411,9.79,Low Fat,0.0153,fruits,162.1,STR102,2003,high,north,supermarket,2481.96
+PRD0412,19.25,Low Fat,0.0438,drinks,176.57,STR103,2003,high,west,hypermarket,4555.3
+PRD0413,19.26,Regular,0.0498,fruits,83.36,STR103,2019,small,west,hypermarket,3878.01
+PRD0414,13.6,Low Fat,0.0184,fruits,121.46,STR102,2019,large,south,hypermarket,2698.72
+PRD0415,14.48,Regular,0.0224,household,172.82,STR102,2018,large,west,hypermarket,3214.5
+PRD0416,11.73,Regular,0.0361,frozen,198.21,STR104,2012,small,east,supermarket,1965.12
+PRD0417,9.4,Regular,0.0443,household,181.22,STR103,2011,medium,west,supermarket,4926.19
+PRD0418,9.93,Regular,0.0297,drinks,93.15,STR103,2006,high,east,supermarket,3503.08
+PRD0419,15.09,Low Fat,0.0196,frozen,63.18,STR101,2011,small,west,supermarket,697.31
+PRD0420,16.29,Regular,0.0206,dairy,113.2,STR105,2020,small,south,hypermarket,1969.8
+PRD0421,16.87,Low Fat,0.0348,dairy,156.08,STR105,2003,large,south,hypermarket,3304.91
+PRD0422,16.84,Low Fat,0.0002,drinks,113.74,STR101,2001,high,east,supermarket,753.5
+PRD0423,6.37,Low Fat,0.031,household,112.14,STR105,2001,large,south,supermarket,607.48
+PRD0424,12.42,Low Fat,0.0178,snacks,172.5,STR102,2004,small,west,hypermarket,2525.11
+PRD0425,5.86,Low Fat,0.0397,drinks,91.44,STR105,2009,medium,west,hypermarket,1997.11
+PRD0426,13.24,Low Fat,0.0046,frozen,176.17,STR105,2009,high,south,hypermarket,2472.34
+PRD0427,11.62,Low Fat,0.0294,frozen,99.16,STR101,2008,small,west,hypermarket,1682.12
+PRD0428,18.32,Low Fat,0.024,fruits,85.8,STR104,2012,small,north,hypermarket,1241.23
+PRD0429,10.26,Low Fat,0.0321,dairy,107.18,STR105,2006,medium,north,supermarket,3601.15
+PRD0430,6.76,Low Fat,0.0032,frozen,159.62,STR105,2004,small,west,supermarket,2815.57
+PRD0431,7.14,Regular,0.029,drinks,51.42,STR104,2009,small,south,hypermarket,1400.69
+PRD0432,16.42,Regular,0.0281,frozen,63.39,STR101,2009,high,east,hypermarket,1938.15
+PRD0433,14.27,Regular,0.028,drinks,191.75,STR104,2005,high,south,supermarket,3163.14
+PRD0434,6.52,Low Fat,0.0302,snacks,59.83,STR101,2018,high,east,hypermarket,825.03
+PRD0435,6.26,Regular,0.0338,fruits,126.51,STR102,2020,large,south,supermarket,1163.54
+PRD0436,15.51,Regular,0.0402,dairy,128.48,STR101,2007,medium,west,supermarket,829.61
+PRD0437,6.09,Regular,0.0135,frozen,113.24,STR102,2000,high,north,supermarket,4155.43
+PRD0438,17.33,Low Fat,0.0413,drinks,139.61,STR102,2016,large,south,supermarket,3885.84
+PRD0439,15.59,Low Fat,0.0249,household,69.07,STR101,2006,large,east,hypermarket,3889.91
+PRD0440,6.22,Low Fat,0.0039,dairy,123.95,STR103,2013,medium,north,hypermarket,3723.46
+PRD0441,6.27,Low Fat,0.0029,snacks,93.27,STR101,2020,medium,east,supermarket,3512.23
+PRD0442,19.8,Regular,0.0167,drinks,142.48,STR105,2020,small,west,hypermarket,2646.46
+PRD0443,10.61,Regular,0.0392,fruits,54.01,STR105,2016,large,north,hypermarket,3390.25
+PRD0444,10.56,Regular,0.0354,fruits,127.05,STR103,2008,high,east,hypermarket,672.63
+PRD0445,17.19,Regular,0.0394,snacks,61.5,STR102,2016,medium,south,hypermarket,3296.59
+PRD0446,19.21,Low Fat,0.0259,snacks,77.37,STR103,2004,large,west,supermarket,4000.45
+PRD0447,19.79,Low Fat,0.022,fruits,67.18,STR105,2019,high,west,hypermarket,2751.61
+PRD0448,16.3,Low Fat,0.0074,frozen,61.08,STR103,2007,large,west,supermarket,2108.81
+PRD0449,10.64,Regular,0.0164,frozen,170.37,STR101,2005,medium,south,supermarket,1748.42
+PRD0450,6.25,Low Fat,0.0217,drinks,78.57,STR103,2010,small,south,hypermarket,3392.61
+PRD0451,16.66,Low Fat,0.0044,household,187.61,STR102,2018,large,north,supermarket,3617.61
+PRD0452,13.38,Regular,0.011,drinks,194.89,STR101,2003,high,south,hypermarket,4419.35
+PRD0453,11.36,Regular,0.0299,household,127.11,STR104,2017,medium,north,hypermarket,2040.5
+PRD0454,18.6,Low Fat,0.0368,snacks,54.31,STR105,2000,small,west,supermarket,3963.98
+PRD0455,6.67,Low Fat,0.0499,dairy,93.67,STR105,2012,high,north,hypermarket,3026.1
+PRD0456,12.39,Low Fat,0.0467,drinks,165.61,STR103,2013,high,east,supermarket,4472.76
+PRD0457,5.17,Low Fat,0.0321,drinks,92.46,STR101,2000,high,west,supermarket,2875.15
+PRD0458,12.03,Low Fat,0.0211,household,44.79,STR104,2010,large,west,hypermarket,2829.33
+PRD0459,5.84,Low Fat,0.0318,snacks,124.65,STR101,2016,medium,north,hypermarket,3100.45
+PRD0460,6.78,Regular,0.0393,snacks,173.67,STR105,2003,high,west,hypermarket,3871.92
+PRD0461,6.76,Regular,0.0059,household,165.31,STR101,2011,large,south,supermarket,4841.11
+PRD0462,14.74,Regular,0.0205,snacks,59.77,STR104,2009,medium,east,hypermarket,831.04
+PRD0463,16.19,Low Fat,0.042,fruits,144.37,STR103,2005,medium,north,supermarket,740.46
+PRD0464,13.75,Regular,0.0192,frozen,67.49,STR102,2000,large,north,supermarket,4718.98
+PRD0465,19.43,Low Fat,0.0286,fruits,67.1,STR101,2006,large,west,hypermarket,2884.44
+PRD0466,10.62,Low Fat,0.0294,dairy,178.59,STR102,2020,high,south,hypermarket,3267.06
+PRD0467,9.29,Regular,0.0092,drinks,72.44,STR105,2015,medium,west,hypermarket,2670.91
+PRD0468,18.03,Low Fat,0.0181,dairy,74.75,STR103,2013,small,west,supermarket,921.46
+PRD0469,8.35,Low Fat,0.0167,drinks,30.11,STR103,2019,large,north,hypermarket,3956.4
+PRD0470,19.45,Regular,0.0013,frozen,178.01,STR101,2019,medium,west,supermarket,3862.51
+PRD0471,5.18,Regular,0.0012,snacks,164.74,STR103,2005,medium,east,hypermarket,1902.66
+PRD0472,19.55,Regular,0.0416,fruits,136.65,STR101,2004,high,west,hypermarket,1878.08
+PRD0473,5.65,Low Fat,0.0137,household,157.55,STR101,2020,small,west,supermarket,4270.29
+PRD0474,18.37,Regular,0.0259,fruits,55.85,STR102,2017,high,north,supermarket,825.61
+PRD0475,12.92,Regular,0.0149,frozen,107.92,STR103,2014,small,west,hypermarket,4464.97
+PRD0476,19.89,Low Fat,0.047,dairy,89.71,STR101,2005,small,south,hypermarket,1654.98
+PRD0477,6.11,Regular,0.013,household,45.94,STR102,2018,large,north,hypermarket,3168.43
+PRD0478,13.31,Regular,0.0215,snacks,112.64,STR104,2000,medium,west,hypermarket,4711.97
+PRD0479,19.54,Regular,0.0436,frozen,186.53,STR102,2000,medium,east,hypermarket,3551.55
+PRD0480,12.85,Low Fat,0.0421,household,36.81,STR102,2012,medium,east,supermarket,2364.93
+PRD0481,14.44,Low Fat,0.0093,frozen,79.55,STR101,2002,small,north,supermarket,3602.9
+PRD0482,15.44,Low Fat,0.0401,frozen,65.28,STR105,2009,medium,north,supermarket,2047.91
+PRD0483,11.82,Low Fat,0.0229,snacks,70.48,STR105,2020,large,west,supermarket,1747.66
+PRD0484,14.41,Regular,0.0241,drinks,184.43,STR105,2002,small,south,hypermarket,4985.07
+PRD0485,13.76,Low Fat,0.0067,household,109.57,STR102,2008,small,west,supermarket,3878.56
+PRD0486,18.52,Low Fat,0.004,snacks,109.27,STR101,2007,small,east,supermarket,3401.24
+PRD0487,5.68,Regular,0.0364,frozen,159.3,STR103,2002,small,south,supermarket,2098.8
+PRD0488,9.21,Regular,0.0248,snacks,56.26,STR102,2012,large,south,hypermarket,721.22
+PRD0489,19.26,Regular,0.0218,drinks,112.84,STR102,2005,medium,south,supermarket,639.76
+PRD0490,18.35,Low Fat,0.0365,fruits,103.1,STR101,2012,large,west,hypermarket,2993.82
+PRD0491,11.83,Low Fat,0.0383,household,131.47,STR104,2019,medium,east,supermarket,3929.15
+PRD0492,14.3,Low Fat,0.0079,drinks,199.92,STR102,2019,large,north,hypermarket,2918.21
+PRD0493,9.16,Regular,0.0305,dairy,160.81,STR104,2011,high,west,supermarket,4283.53
+PRD0494,7.82,Regular,0.0068,household,97.64,STR104,2012,high,north,hypermarket,650.42
+PRD0495,11.96,Low Fat,0.0376,drinks,170.68,STR105,2001,high,south,supermarket,2150.38
+PRD0496,10.3,Regular,0.0328,frozen,59.02,STR101,2020,high,south,hypermarket,1566.82
+PRD0497,13.75,Regular,0.0478,household,35.18,STR104,2015,small,west,hypermarket,2512.73
+PRD0498,6.17,Regular,0.0034,household,64.76,STR101,2005,small,east,supermarket,825.69
+PRD0499,19.62,Low Fat,0.0029,snacks,87.87,STR105,2018,large,south,hypermarket,4793.59
+PRD0500,19.79,Regular,0.0141,frozen,116.8,STR101,2020,large,north,hypermarket,1504.65
+PRD0501,15.47,Regular,0.0131,dairy,134.57,STR102,2012,high,north,supermarket,4650.38
+PRD0502,13.04,Low Fat,0.0123,fruits,184.8,STR104,2016,medium,west,supermarket,2416.52
+PRD0503,9.64,Low Fat,0.0453,drinks,116.68,STR101,2008,high,north,hypermarket,4934.86
+PRD0504,17.21,Regular,0.0125,snacks,115.22,STR103,2016,large,east,supermarket,2993.26
+PRD0505,15.27,Regular,0.0136,drinks,38.54,STR101,2001,high,south,supermarket,4688.75
+PRD0506,7.44,Low Fat,0.038,dairy,35.93,STR104,2018,large,north,supermarket,524.07
+PRD0507,18.66,Low Fat,0.0225,dairy,123.7,STR105,2018,high,north,hypermarket,3867.07
+PRD0508,17.34,Regular,0.0388,household,104.49,STR105,2006,medium,south,hypermarket,4563.73
+PRD0509,19.25,Regular,0.0033,dairy,172.66,STR104,2009,high,west,hypermarket,1128.74
+PRD0510,15.89,Regular,0.0244,drinks,57.32,STR102,2009,medium,north,hypermarket,932.57
+PRD0511,14.2,Regular,0.0017,frozen,34.25,STR102,2019,medium,west,hypermarket,2410.58
+PRD0512,11.27,Low Fat,0.0031,frozen,106.34,STR105,2008,large,west,hypermarket,4701.56
+PRD0513,18.99,Regular,0.0453,household,70.37,STR105,2016,medium,north,hypermarket,2940.74
+PRD0514,17.99,Regular,0.007,fruits,38.43,STR104,2014,small,east,supermarket,2873.55
+PRD0515,5.68,Low Fat,0.0266,drinks,153.18,STR102,2001,small,west,hypermarket,1135.07
+PRD0516,5.4,Regular,0.0206,drinks,48.97,STR105,2003,small,north,hypermarket,503.55
+PRD0517,10.65,Low Fat,0.0174,dairy,133.41,STR102,2018,large,west,supermarket,4145.63
+PRD0518,17.16,Regular,0.045,drinks,77.78,STR105,2016,small,south,supermarket,894.09
+PRD0519,19.81,Regular,0.0011,snacks,59.49,STR101,2004,large,east,supermarket,3352.32
+PRD0520,7.26,Low Fat,0.0332,fruits,94.56,STR103,2006,large,east,hypermarket,4615.77
+PRD0521,13.91,Low Fat,0.0482,dairy,166.25,STR101,2017,small,south,supermarket,1438.93
+PRD0522,10.71,Regular,0.028,snacks,96.66,STR105,2020,medium,south,hypermarket,3493.73
+PRD0523,19.55,Regular,0.0468,household,157.63,STR103,2006,high,west,hypermarket,854.14
+PRD0524,17.63,Regular,0.0026,frozen,51.33,STR103,2016,large,south,hypermarket,3216.9
+PRD0525,17.57,Low Fat,0.0209,household,161.37,STR105,2006,small,east,supermarket,1237.69
+PRD0526,12.03,Regular,0.013,frozen,70.28,STR105,2003,large,south,supermarket,3811.79
+PRD0527,11.22,Low Fat,0.0365,household,145.16,STR102,2007,medium,north,hypermarket,1855.54
+PRD0528,9.1,Low Fat,0.0491,drinks,126.18,STR105,2012,medium,north,hypermarket,2585.26
+PRD0529,5.85,Regular,0.0128,snacks,187.95,STR104,2003,small,west,hypermarket,3197.44
+PRD0530,17.97,Low Fat,0.0327,frozen,95.84,STR105,2005,large,east,supermarket,1270.73
+PRD0531,17.19,Regular,0.0099,dairy,41.25,STR104,2004,high,north,hypermarket,3837.37
+PRD0532,20.0,Regular,0.0283,snacks,33.26,STR105,2011,high,south,supermarket,1861.88
+PRD0533,19.95,Regular,0.0232,dairy,170.57,STR102,2003,large,north,hypermarket,3480.67
+PRD0534,13.33,Regular,0.0486,snacks,119.21,STR104,2008,large,north,supermarket,1212.27
+PRD0535,16.53,Regular,0.0304,snacks,161.79,STR101,2003,large,west,hypermarket,3596.53
+PRD0536,19.17,Low Fat,0.0175,household,69.85,STR104,2018,small,south,supermarket,1076.85
+PRD0537,17.74,Low Fat,0.0057,frozen,88.66,STR102,2013,medium,south,supermarket,2414.1
+PRD0538,8.71,Regular,0.0076,frozen,35.12,STR104,2004,high,south,supermarket,1612.43
+PRD0539,11.76,Regular,0.0113,snacks,193.45,STR105,2017,small,west,supermarket,3867.69
+PRD0540,6.94,Low Fat,0.0125,drinks,143.54,STR105,2009,large,south,supermarket,1679.16
+PRD0541,19.31,Low Fat,0.0425,drinks,188.64,STR102,2018,large,south,supermarket,4467.73
+PRD0542,14.09,Low Fat,0.0281,dairy,75.13,STR103,2011,medium,north,hypermarket,4513.19
+PRD0543,8.43,Low Fat,0.0262,dairy,133.95,STR105,2017,large,north,hypermarket,1383.99
+PRD0544,15.08,Regular,0.0057,household,145.34,STR101,2016,small,south,hypermarket,3262.31
+PRD0545,14.27,Regular,0.043,snacks,83.98,STR102,2010,small,east,hypermarket,894.73
+PRD0546,10.37,Low Fat,0.0361,dairy,174.18,STR104,2002,medium,east,supermarket,2261.92
+PRD0547,6.7,Regular,0.0034,dairy,191.02,STR104,2016,small,south,hypermarket,3709.95
+PRD0548,15.07,Low Fat,0.0354,fruits,180.43,STR101,2000,high,east,supermarket,3467.4
+PRD0549,12.8,Regular,0.0272,snacks,155.64,STR105,2014,small,west,supermarket,3311.15
+PRD0550,16.58,Low Fat,0.0041,household,77.17,STR102,2008,small,north,supermarket,1771.43
+PRD0551,12.8,Regular,0.0229,dairy,77.87,STR101,2014,small,west,hypermarket,2201.11
+PRD0552,17.78,Low Fat,0.0242,household,193.77,STR105,2002,high,north,supermarket,963.26
+PRD0553,13.28,Low Fat,0.0083,frozen,31.75,STR102,2018,large,east,hypermarket,3735.6
+PRD0554,13.41,Regular,0.0473,household,151.73,STR104,2012,small,east,hypermarket,2767.5
+PRD0555,18.15,Low Fat,0.0425,drinks,150.06,STR102,2011,medium,south,hypermarket,3689.45
+PRD0556,11.05,Regular,0.0335,drinks,135.86,STR103,2019,high,east,hypermarket,1620.25
+PRD0557,7.01,Regular,0.0231,household,198.32,STR102,2000,medium,east,hypermarket,1959.97
+PRD0558,5.43,Low Fat,0.0206,drinks,83.02,STR103,2020,small,south,supermarket,2003.97
+PRD0559,16.33,Regular,0.0325,frozen,87.8,STR102,2016,medium,south,supermarket,615.84
+PRD0560,14.3,Regular,0.0273,snacks,43.42,STR103,2012,small,north,hypermarket,2034.72
+PRD0561,15.56,Regular,0.0031,drinks,105.28,STR104,2000,high,east,supermarket,4114.87
+PRD0562,8.19,Regular,0.0256,drinks,74.38,STR105,2009,medium,north,hypermarket,4537.84
+PRD0563,7.05,Regular,0.0403,household,88.38,STR103,2014,medium,north,supermarket,2831.98
+PRD0564,5.22,Low Fat,0.023,frozen,171.88,STR103,2006,small,west,supermarket,2549.76
+PRD0565,10.26,Regular,0.0026,snacks,189.03,STR104,2017,small,east,supermarket,638.71
+PRD0566,13.85,Regular,0.0393,household,61.57,STR103,2015,large,east,supermarket,4456.42
+PRD0567,10.88,Regular,0.0101,household,93.33,STR101,2013,small,west,supermarket,558.55
+PRD0568,11.56,Regular,0.0129,fruits,187.87,STR104,2017,small,north,supermarket,4751.38
+PRD0569,18.56,Regular,0.0082,frozen,40.51,STR101,2006,large,east,supermarket,2701.47
+PRD0570,10.22,Low Fat,0.0165,snacks,45.7,STR104,2016,small,north,supermarket,2038.71
+PRD0571,12.71,Regular,0.0378,frozen,57.67,STR103,2017,small,west,supermarket,4658.98
+PRD0572,16.75,Low Fat,0.026,snacks,131.19,STR101,2011,large,south,supermarket,609.76
+PRD0573,10.95,Low Fat,0.0102,frozen,55.58,STR103,2007,high,north,supermarket,3116.41
+PRD0574,14.33,Low Fat,0.0439,household,194.57,STR104,2001,high,east,supermarket,2970.2
+PRD0575,17.94,Low Fat,0.044,household,105.94,STR103,2006,small,south,supermarket,1486.94
+PRD0576,19.24,Regular,0.0435,dairy,115.26,STR101,2003,small,north,hypermarket,2429.99
+PRD0577,7.21,Low Fat,0.0119,drinks,71.93,STR101,2017,large,north,supermarket,3435.19
+PRD0578,18.9,Low Fat,0.0226,fruits,110.06,STR103,2005,large,south,supermarket,3772.09
+PRD0579,12.38,Regular,0.0492,frozen,142.53,STR102,2008,high,south,supermarket,503.23
+PRD0580,8.87,Regular,0.0386,fruits,157.7,STR104,2008,medium,south,supermarket,4715.84
+PRD0581,11.89,Regular,0.0014,dairy,158.16,STR104,2013,small,east,supermarket,1240.36
+PRD0582,19.7,Low Fat,0.0033,drinks,128.24,STR103,2007,medium,east,supermarket,1551.11
+PRD0583,12.39,Regular,0.0232,frozen,183.74,STR102,2018,medium,north,hypermarket,1685.63
+PRD0584,9.93,Regular,0.0455,snacks,168.96,STR101,2002,large,north,hypermarket,670.19
+PRD0585,14.5,Low Fat,0.0269,drinks,158.7,STR105,2017,small,west,hypermarket,1053.73
+PRD0586,8.6,Regular,0.0249,household,39.45,STR105,2004,small,east,supermarket,4938.57
+PRD0587,6.14,Regular,0.0053,dairy,31.17,STR103,2013,large,north,supermarket,1918.48
+PRD0588,6.93,Regular,0.0328,drinks,66.12,STR102,2003,medium,south,supermarket,1018.85
+PRD0589,6.92,Regular,0.0411,drinks,142.8,STR102,2006,large,south,hypermarket,981.46
+PRD0590,7.28,Low Fat,0.019,household,99.9,STR104,2019,high,east,supermarket,3737.57
+PRD0591,7.08,Regular,0.0388,frozen,98.41,STR101,2011,small,south,supermarket,4345.56
+PRD0592,14.61,Regular,0.0482,snacks,180.38,STR102,2001,high,west,hypermarket,1656.29
+PRD0593,7.73,Low Fat,0.0102,household,182.25,STR105,2010,large,north,hypermarket,594.09
+PRD0594,10.19,Regular,0.0262,snacks,184.56,STR101,2013,small,north,supermarket,1503.91
+PRD0595,18.45,Low Fat,0.0144,frozen,83.36,STR101,2015,high,north,supermarket,754.32
+PRD0596,12.11,Regular,0.0396,drinks,147.48,STR103,2019,high,east,supermarket,965.28
+PRD0597,15.01,Low Fat,0.0289,snacks,76.18,STR102,2005,medium,south,supermarket,2441.79
+PRD0598,7.58,Low Fat,0.0317,dairy,62.4,STR103,2003,small,west,hypermarket,1534.63
+PRD0599,7.88,Low Fat,0.0399,dairy,61.39,STR102,2014,high,east,supermarket,2821.76
+PRD0600,5.61,Low Fat,0.0198,household,88.16,STR104,2000,high,north,supermarket,1640.72
+PRD0601,7.53,Regular,0.0458,frozen,103.09,STR103,2006,medium,west,hypermarket,4732.42
+PRD0602,9.18,Low Fat,0.0267,household,171.26,STR103,2011,high,north,supermarket,4576.75
+PRD0603,7.66,Regular,0.0079,household,50.38,STR105,2009,high,north,supermarket,3050.63
+PRD0604,6.33,Low Fat,0.0348,fruits,154.94,STR103,2004,high,east,hypermarket,2094.91
+PRD0605,6.81,Low Fat,0.0397,household,120.35,STR102,2011,medium,north,hypermarket,2215.16
+PRD0606,11.91,Low Fat,0.0158,fruits,78.95,STR105,2017,high,west,supermarket,2353.34
+PRD0607,8.1,Regular,0.0429,dairy,113.78,STR103,2009,high,north,hypermarket,3774.11
+PRD0608,10.46,Low Fat,0.0453,dairy,80.99,STR103,2005,small,south,hypermarket,2532.38
+PRD0609,12.55,Regular,0.0138,household,131.33,STR104,2011,small,north,supermarket,4355.28
+PRD0610,15.36,Regular,0.0492,dairy,103.75,STR103,2006,medium,east,hypermarket,4748.43
+PRD0611,5.59,Regular,0.007,frozen,57.95,STR101,2017,large,west,supermarket,2011.76
+PRD0612,16.99,Regular,0.0101,fruits,49.82,STR105,2001,small,east,supermarket,3023.13
+PRD0613,14.42,Regular,0.0092,fruits,122.94,STR101,2009,medium,south,supermarket,927.75
+PRD0614,6.23,Regular,0.0447,household,183.41,STR105,2014,high,north,supermarket,1402.11
+PRD0615,18.1,Regular,0.0327,dairy,88.47,STR104,2011,high,east,hypermarket,2360.6
+PRD0616,18.81,Regular,0.0076,snacks,154.61,STR103,2016,medium,east,supermarket,1427.91
+PRD0617,5.92,Regular,0.022,fruits,141.97,STR103,2003,high,east,supermarket,4444.52
+PRD0618,9.15,Low Fat,0.0308,household,188.36,STR103,2006,high,east,supermarket,1212.29
+PRD0619,17.09,Low Fat,0.0042,household,169.57,STR105,2008,large,south,supermarket,2550.47
+PRD0620,16.22,Low Fat,0.0441,frozen,126.32,STR103,2018,high,south,hypermarket,3225.65
+PRD0621,7.77,Low Fat,0.0402,drinks,141.7,STR101,2006,small,north,hypermarket,3613.39
+PRD0622,8.14,Low Fat,0.0253,drinks,182.73,STR103,2001,high,north,hypermarket,2223.81
+PRD0623,10.56,Regular,0.0484,fruits,97.92,STR104,2005,medium,west,supermarket,4410.95
+PRD0624,12.27,Regular,0.0209,frozen,85.56,STR101,2017,large,south,hypermarket,3057.44
+PRD0625,14.27,Regular,0.0492,frozen,31.84,STR103,2005,high,east,hypermarket,2477.79
+PRD0626,10.53,Regular,0.0334,frozen,170.51,STR103,2012,medium,east,supermarket,802.58
+PRD0627,11.94,Regular,0.0317,fruits,166.17,STR102,2018,small,west,hypermarket,2591.1
+PRD0628,16.21,Regular,0.0083,drinks,47.76,STR105,2001,high,east,supermarket,4193.31
+PRD0629,5.55,Regular,0.0441,frozen,128.07,STR101,2011,large,west,hypermarket,3265.43
+PRD0630,8.79,Low Fat,0.0214,dairy,108.88,STR102,2014,high,north,hypermarket,4244.73
+PRD0631,15.7,Low Fat,0.0081,household,50.18,STR104,2013,medium,south,hypermarket,2723.05
+PRD0632,18.43,Low Fat,0.0006,household,196.7,STR105,2005,large,west,hypermarket,1033.08
+PRD0633,12.68,Low Fat,0.028,snacks,66.5,STR101,2017,high,east,supermarket,561.38
+PRD0634,12.98,Regular,0.0264,snacks,41.43,STR103,2004,small,west,supermarket,1864.49
+PRD0635,6.61,Regular,0.036,fruits,131.12,STR101,2017,large,north,hypermarket,3640.96
+PRD0636,11.71,Regular,0.0445,fruits,155.61,STR103,2002,small,east,supermarket,4056.17
+PRD0637,12.99,Low Fat,0.004,household,35.52,STR105,2002,medium,north,hypermarket,1830.89
+PRD0638,8.64,Regular,0.0366,dairy,141.98,STR103,2009,high,north,hypermarket,2730.44
+PRD0639,9.04,Regular,0.0094,drinks,120.49,STR104,2018,small,west,hypermarket,2395.04
+PRD0640,10.66,Regular,0.0429,drinks,47.56,STR103,2002,medium,north,hypermarket,2347.35
+PRD0641,5.3,Low Fat,0.041,fruits,59.33,STR104,2011,high,east,hypermarket,1541.07
+PRD0642,9.83,Regular,0.027,dairy,126.56,STR105,2015,medium,north,hypermarket,1113.67
+PRD0643,8.17,Low Fat,0.0355,fruits,80.38,STR105,2016,small,north,supermarket,1385.1
+PRD0644,9.91,Low Fat,0.0157,drinks,189.51,STR101,2006,medium,west,supermarket,749.0
+PRD0645,6.8,Low Fat,0.0236,fruits,169.19,STR104,2012,large,north,hypermarket,1391.59
+PRD0646,18.36,Low Fat,0.0411,frozen,197.21,STR104,2001,high,south,supermarket,541.4
+PRD0647,13.9,Regular,0.023,fruits,74.14,STR102,2003,medium,west,hypermarket,3322.66
+PRD0648,15.19,Low Fat,0.0179,household,194.85,STR102,2009,small,west,supermarket,1923.69
+PRD0649,16.84,Low Fat,0.0247,fruits,103.31,STR102,2006,high,east,supermarket,4879.15
+PRD0650,12.48,Regular,0.0414,household,89.08,STR103,2016,large,east,supermarket,1371.73
+PRD0651,6.3,Regular,0.0168,dairy,38.56,STR102,2019,high,east,hypermarket,2056.23
+PRD0652,13.06,Low Fat,0.0087,drinks,38.97,STR104,2005,large,east,supermarket,2110.29
+PRD0653,13.8,Regular,0.0356,snacks,147.64,STR103,2018,high,south,hypermarket,538.03
+PRD0654,16.18,Low Fat,0.0413,snacks,107.85,STR105,2004,medium,west,hypermarket,4276.44
+PRD0655,11.47,Low Fat,0.005,drinks,68.51,STR101,2009,medium,north,hypermarket,643.98
+PRD0656,6.91,Low Fat,0.012,snacks,134.37,STR102,2008,small,east,supermarket,4730.81
+PRD0657,9.26,Low Fat,0.0071,fruits,72.99,STR105,2012,large,east,supermarket,4514.33
+PRD0658,10.45,Regular,0.0174,dairy,128.2,STR104,2018,small,east,supermarket,2909.85
+PRD0659,14.69,Low Fat,0.0225,dairy,91.07,STR101,2020,medium,north,hypermarket,2946.18
+PRD0660,13.56,Regular,0.0374,drinks,170.0,STR105,2005,large,east,hypermarket,3442.0
+PRD0661,10.34,Regular,0.0326,snacks,169.52,STR101,2003,small,north,supermarket,2241.73
+PRD0662,19.8,Regular,0.031,fruits,111.15,STR102,2002,small,west,hypermarket,3412.5
+PRD0663,14.09,Regular,0.0176,dairy,89.64,STR104,2002,small,west,supermarket,701.46
+PRD0664,8.56,Low Fat,0.0421,dairy,91.64,STR101,2003,small,west,supermarket,743.21
+PRD0665,6.53,Regular,0.0236,frozen,166.97,STR105,2004,small,south,supermarket,2557.54
+PRD0666,7.29,Low Fat,0.049,frozen,85.79,STR102,2007,large,north,supermarket,2973.3
+PRD0667,8.69,Regular,0.0317,dairy,65.54,STR102,2015,small,east,hypermarket,4495.18
+PRD0668,7.41,Regular,0.0063,drinks,44.4,STR105,2002,large,east,supermarket,970.97
+PRD0669,7.8,Low Fat,0.0338,household,109.34,STR105,2011,small,east,supermarket,4201.92
+PRD0670,9.28,Low Fat,0.0163,household,111.96,STR101,2007,medium,east,supermarket,1445.21
+PRD0671,7.6,Low Fat,0.0343,fruits,172.95,STR103,2012,medium,south,supermarket,2273.38
+PRD0672,18.45,Regular,0.0035,dairy,67.61,STR102,2003,small,east,supermarket,1924.71
+PRD0673,6.2,Regular,0.0087,dairy,94.77,STR101,2013,high,south,supermarket,2300.7
+PRD0674,12.87,Low Fat,0.0428,dairy,167.43,STR105,2013,medium,north,supermarket,1177.23
+PRD0675,11.16,Low Fat,0.0114,drinks,170.02,STR101,2012,large,west,hypermarket,2766.07
+PRD0676,19.74,Low Fat,0.0419,frozen,95.38,STR105,2005,small,east,hypermarket,4107.39
+PRD0677,6.68,Low Fat,0.014,dairy,108.05,STR104,2016,large,west,hypermarket,2486.9
+PRD0678,10.97,Regular,0.0321,dairy,81.56,STR105,2003,high,north,hypermarket,2707.76
+PRD0679,19.54,Low Fat,0.0347,snacks,188.53,STR105,2007,small,north,supermarket,4319.45
+PRD0680,17.98,Low Fat,0.0256,drinks,50.17,STR105,2016,medium,east,hypermarket,3677.26
+PRD0681,17.26,Low Fat,0.0153,fruits,188.74,STR103,2002,large,north,hypermarket,2707.04
+PRD0682,8.87,Low Fat,0.0106,dairy,146.26,STR105,2016,medium,west,hypermarket,1659.63
+PRD0683,7.56,Regular,0.0017,snacks,120.37,STR102,2008,medium,east,supermarket,4482.17
+PRD0684,15.03,Low Fat,0.0152,household,35.55,STR102,2001,small,south,hypermarket,3096.59
+PRD0685,18.94,Regular,0.0327,fruits,110.85,STR101,2012,large,east,hypermarket,1495.16
+PRD0686,13.35,Low Fat,0.0469,dairy,99.32,STR103,2019,high,west,supermarket,1711.04
+PRD0687,13.57,Low Fat,0.0436,dairy,57.41,STR101,2001,medium,east,hypermarket,4114.1
+PRD0688,9.2,Regular,0.0383,snacks,141.59,STR102,2019,small,east,supermarket,698.66
+PRD0689,16.54,Low Fat,0.0394,drinks,195.1,STR102,2010,small,west,hypermarket,4964.41
+PRD0690,7.81,Regular,0.0332,dairy,125.57,STR104,2014,high,east,supermarket,1086.58
+PRD0691,9.86,Regular,0.013,household,151.51,STR105,2010,small,east,hypermarket,4082.31
+PRD0692,11.38,Low Fat,0.0454,dairy,41.64,STR102,2002,medium,west,hypermarket,2276.49
+PRD0693,12.61,Regular,0.0335,household,101.0,STR101,2002,small,north,hypermarket,2714.97
+PRD0694,8.64,Regular,0.028,fruits,49.78,STR101,2011,large,west,supermarket,4462.93
+PRD0695,6.72,Regular,0.0055,fruits,134.18,STR105,2004,large,east,hypermarket,2358.1
+PRD0696,14.16,Regular,0.0224,frozen,189.54,STR105,2019,medium,south,supermarket,2918.72
+PRD0697,9.33,Regular,0.023,frozen,142.5,STR104,2006,large,south,supermarket,721.85
+PRD0698,13.72,Regular,0.0432,household,43.06,STR103,2006,high,west,supermarket,510.56
+PRD0699,7.32,Regular,0.0273,drinks,90.29,STR101,2012,small,south,supermarket,1601.6
+PRD0700,12.22,Regular,0.019,dairy,123.61,STR105,2008,medium,east,hypermarket,3562.62
+PRD0701,12.99,Low Fat,0.0488,dairy,98.55,STR101,2020,high,east,hypermarket,1045.69
+PRD0702,5.78,Low Fat,0.0055,frozen,171.72,STR105,2012,small,west,hypermarket,1011.93
+PRD0703,10.05,Regular,0.0211,household,168.49,STR102,2011,high,east,supermarket,2349.32
+PRD0704,7.02,Low Fat,0.0021,dairy,134.01,STR101,2012,medium,north,hypermarket,3415.27
+PRD0705,5.95,Regular,0.037,dairy,93.49,STR102,2009,medium,east,supermarket,3704.32
+PRD0706,19.85,Regular,0.0459,drinks,73.41,STR101,2000,high,west,supermarket,1303.03
+PRD0707,9.84,Low Fat,0.014,snacks,48.0,STR103,2007,small,north,supermarket,858.15
+PRD0708,17.15,Regular,0.0429,frozen,90.33,STR104,2015,large,north,hypermarket,4731.79
+PRD0709,8.82,Regular,0.0146,frozen,100.24,STR102,2012,large,south,hypermarket,1673.0
+PRD0710,15.22,Regular,0.0455,snacks,144.89,STR105,2002,high,east,supermarket,4340.06
+PRD0711,16.4,Regular,0.0377,dairy,141.89,STR103,2002,medium,west,hypermarket,4385.71
+PRD0712,13.93,Low Fat,0.0402,drinks,41.92,STR101,2004,small,south,hypermarket,3976.35
+PRD0713,12.07,Regular,0.0009,drinks,97.19,STR102,2010,small,south,supermarket,1259.75
+PRD0714,11.18,Regular,0.0481,frozen,60.9,STR101,2006,medium,east,supermarket,4198.11
+PRD0715,10.23,Regular,0.0363,drinks,56.66,STR101,2020,large,east,hypermarket,3961.63
+PRD0716,18.94,Low Fat,0.0152,fruits,170.64,STR101,2009,small,west,supermarket,3185.25
+PRD0717,17.46,Regular,0.0415,snacks,37.13,STR104,2009,high,south,supermarket,2017.41
+PRD0718,19.48,Low Fat,0.0141,dairy,101.26,STR104,2019,large,west,hypermarket,1681.29
+PRD0719,6.86,Low Fat,0.0436,fruits,58.59,STR105,2001,high,south,hypermarket,1048.5
+PRD0720,15.96,Regular,0.0056,snacks,179.49,STR102,2002,large,south,supermarket,2793.91
+PRD0721,19.08,Regular,0.0352,household,124.7,STR103,2007,medium,south,hypermarket,3133.67
+PRD0722,7.72,Low Fat,0.027,frozen,69.33,STR103,2010,high,east,supermarket,2117.03
+PRD0723,6.0,Regular,0.0048,drinks,115.41,STR103,2012,high,south,supermarket,2639.12
+PRD0724,16.12,Low Fat,0.0121,household,154.35,STR101,2006,medium,south,hypermarket,2135.82
+PRD0725,13.62,Low Fat,0.0006,drinks,192.88,STR104,2012,high,south,supermarket,3384.53
+PRD0726,17.63,Regular,0.0234,fruits,67.48,STR102,2001,large,north,supermarket,4555.67
+PRD0727,7.1,Regular,0.0151,dairy,180.65,STR101,2005,small,east,supermarket,1237.64
+PRD0728,16.93,Low Fat,0.0299,dairy,188.83,STR104,2008,small,north,hypermarket,2216.34
+PRD0729,8.02,Low Fat,0.0149,dairy,185.79,STR104,2019,medium,east,hypermarket,1133.91
+PRD0730,7.45,Low Fat,0.015,drinks,138.02,STR102,2001,large,west,hypermarket,3312.25
+PRD0731,7.46,Low Fat,0.0372,household,137.07,STR102,2017,high,north,supermarket,3779.92
+PRD0732,17.22,Regular,0.0024,dairy,98.55,STR102,2015,high,west,supermarket,4693.61
+PRD0733,14.98,Regular,0.0451,household,157.91,STR101,2011,small,south,hypermarket,1754.92
+PRD0734,12.85,Regular,0.0426,drinks,120.32,STR105,2006,high,west,hypermarket,4775.95
+PRD0735,10.38,Regular,0.0334,fruits,145.16,STR102,2006,small,west,hypermarket,784.68
+PRD0736,18.16,Regular,0.0297,household,102.84,STR105,2016,medium,west,supermarket,3213.56
+PRD0737,10.89,Low Fat,0.0446,fruits,154.35,STR101,2012,high,west,hypermarket,757.1
+PRD0738,17.25,Regular,0.0093,drinks,170.16,STR105,2010,large,east,supermarket,4521.98
+PRD0739,11.59,Regular,0.0039,drinks,54.89,STR103,2005,high,north,hypermarket,2884.14
+PRD0740,10.65,Regular,0.012,frozen,171.6,STR105,2013,small,east,supermarket,3512.07
+PRD0741,11.94,Regular,0.0397,drinks,121.85,STR102,2005,medium,east,supermarket,4242.08
+PRD0742,9.52,Regular,0.0017,drinks,173.59,STR101,2005,small,east,hypermarket,1176.4
+PRD0743,16.21,Low Fat,0.0291,snacks,103.32,STR102,2001,high,west,supermarket,673.66
+PRD0744,12.54,Low Fat,0.0498,dairy,94.44,STR103,2019,small,east,hypermarket,4454.97
+PRD0745,8.48,Low Fat,0.0428,frozen,185.56,STR102,2014,small,north,supermarket,1917.2
+PRD0746,18.49,Regular,0.0261,frozen,72.7,STR102,2016,medium,east,supermarket,1080.41
+PRD0747,10.76,Low Fat,0.0032,frozen,173.52,STR102,2007,large,south,hypermarket,2608.08
+PRD0748,13.15,Low Fat,0.0416,snacks,112.28,STR104,2004,high,west,supermarket,3192.38
+PRD0749,18.6,Regular,0.0299,fruits,117.4,STR103,2016,medium,south,hypermarket,639.37
+PRD0750,14.36,Regular,0.0057,drinks,82.44,STR102,2019,large,north,hypermarket,1737.03
+PRD0751,6.75,Regular,0.0047,dairy,127.42,STR102,2000,small,north,hypermarket,647.6
+PRD0752,19.1,Low Fat,0.0455,household,85.29,STR102,2017,large,north,supermarket,2391.51
+PRD0753,14.42,Low Fat,0.0335,fruits,36.68,STR101,2014,small,north,supermarket,4527.95
+PRD0754,10.02,Regular,0.0415,drinks,76.24,STR104,2004,small,east,supermarket,4921.94
+PRD0755,7.09,Regular,0.0439,snacks,31.08,STR101,2006,medium,west,hypermarket,3366.71
+PRD0756,16.91,Low Fat,0.0286,drinks,196.32,STR104,2017,small,north,hypermarket,1227.37
+PRD0757,14.3,Low Fat,0.0259,drinks,194.18,STR102,2005,medium,south,supermarket,4576.32
+PRD0758,13.0,Regular,0.0215,snacks,97.18,STR103,2020,large,north,supermarket,2823.12
+PRD0759,18.41,Regular,0.0158,frozen,153.82,STR105,2004,large,west,hypermarket,1191.87
+PRD0760,16.83,Low Fat,0.0217,frozen,88.79,STR105,2018,small,south,supermarket,4647.77
+PRD0761,7.28,Regular,0.0387,dairy,144.09,STR102,2009,medium,south,hypermarket,3908.61
+PRD0762,9.68,Low Fat,0.0301,dairy,166.92,STR101,2014,small,south,supermarket,3792.67
+PRD0763,8.73,Low Fat,0.0446,frozen,190.95,STR103,2009,medium,east,hypermarket,3691.31
+PRD0764,16.16,Low Fat,0.0222,fruits,98.04,STR104,2015,medium,north,supermarket,1401.53
+PRD0765,5.5,Low Fat,0.0304,household,163.16,STR102,2011,medium,east,supermarket,1449.53
+PRD0766,13.55,Regular,0.0316,drinks,75.21,STR103,2017,large,south,hypermarket,3597.32
+PRD0767,16.44,Regular,0.0296,household,198.36,STR103,2000,medium,east,hypermarket,1488.75
+PRD0768,18.15,Low Fat,0.0351,drinks,34.38,STR104,2015,large,east,hypermarket,2474.02
+PRD0769,10.13,Low Fat,0.0119,frozen,132.6,STR103,2005,medium,east,supermarket,4019.01
+PRD0770,17.32,Low Fat,0.0256,dairy,142.12,STR101,2002,large,north,hypermarket,4027.79
+PRD0771,6.66,Low Fat,0.0052,fruits,146.97,STR101,2001,high,south,hypermarket,2539.68
+PRD0772,17.7,Low Fat,0.0192,dairy,50.47,STR101,2001,large,south,supermarket,4064.85
+PRD0773,6.91,Regular,0.0244,household,189.55,STR103,2012,large,north,hypermarket,4273.8
+PRD0774,10.96,Regular,0.0326,dairy,60.8,STR101,2008,small,east,hypermarket,3446.49
+PRD0775,16.96,Regular,0.0475,frozen,135.87,STR104,2015,medium,east,hypermarket,1527.92
+PRD0776,7.25,Regular,0.03,fruits,67.85,STR103,2004,high,west,supermarket,1733.05
+PRD0777,8.44,Low Fat,0.0372,household,82.23,STR105,2020,small,west,supermarket,1916.79
+PRD0778,15.83,Low Fat,0.0253,fruits,122.9,STR103,2006,medium,west,supermarket,1025.62
+PRD0779,15.8,Low Fat,0.0317,drinks,100.92,STR104,2012,high,north,hypermarket,1729.22
+PRD0780,14.62,Low Fat,0.0035,dairy,57.24,STR105,2019,high,south,supermarket,1442.84
+PRD0781,15.41,Low Fat,0.0127,fruits,59.06,STR103,2012,high,west,hypermarket,2548.98
+PRD0782,13.14,Regular,0.0181,snacks,101.08,STR101,2006,medium,south,hypermarket,4587.97
+PRD0783,8.78,Low Fat,0.0236,dairy,158.74,STR102,2009,high,south,hypermarket,970.16
+PRD0784,10.19,Regular,0.0023,drinks,182.65,STR102,2014,high,south,supermarket,3741.21
+PRD0785,7.72,Regular,0.007,fruits,44.3,STR101,2020,small,north,supermarket,3592.77
+PRD0786,18.63,Regular,0.0138,household,96.83,STR102,2005,large,north,hypermarket,930.89
+PRD0787,13.75,Regular,0.0486,drinks,47.04,STR102,2004,medium,north,hypermarket,4651.58
+PRD0788,11.01,Low Fat,0.0166,snacks,32.82,STR101,2001,large,north,supermarket,3058.12
+PRD0789,11.93,Regular,0.0241,fruits,142.49,STR101,2020,small,west,supermarket,2136.76
+PRD0790,19.21,Regular,0.0098,frozen,132.42,STR103,2014,large,east,supermarket,3904.42
+PRD0791,7.3,Regular,0.0305,dairy,57.71,STR103,2015,high,east,hypermarket,1658.14
+PRD0792,13.79,Low Fat,0.014,household,69.75,STR101,2018,high,east,supermarket,3620.79
+PRD0793,12.59,Low Fat,0.0103,frozen,34.03,STR104,2008,medium,west,supermarket,678.7
+PRD0794,14.17,Low Fat,0.0258,fruits,171.94,STR102,2018,medium,east,supermarket,4277.34
+PRD0795,5.27,Regular,0.0003,fruits,195.7,STR103,2006,medium,west,hypermarket,2516.77
+PRD0796,18.08,Regular,0.0004,drinks,53.03,STR102,2003,small,west,supermarket,3365.12
+PRD0797,18.98,Low Fat,0.011,fruits,69.35,STR105,2002,medium,west,hypermarket,1495.57
+PRD0798,13.48,Regular,0.0018,household,177.63,STR101,2019,small,east,hypermarket,3546.83
+PRD0799,15.45,Low Fat,0.0054,frozen,187.5,STR104,2010,high,south,hypermarket,3975.08
+PRD0800,18.84,Low Fat,0.0169,household,101.34,STR105,2000,large,east,supermarket,2629.46
+PRD0801,15.61,Regular,0.0401,snacks,38.61,STR105,2005,high,east,supermarket,3279.77
+PRD0802,7.29,Regular,0.0286,snacks,36.7,STR105,2010,high,north,supermarket,2553.47
+PRD0803,13.64,Regular,0.0256,dairy,127.57,STR101,2000,high,west,hypermarket,4523.41
+PRD0804,14.1,Regular,0.0147,dairy,96.79,STR103,2020,medium,south,supermarket,2740.41
+PRD0805,11.36,Low Fat,0.0466,snacks,34.87,STR101,2006,medium,north,hypermarket,4288.14
+PRD0806,16.05,Low Fat,0.0199,fruits,129.15,STR103,2005,medium,south,supermarket,4106.08
+PRD0807,19.02,Low Fat,0.0044,household,31.92,STR105,2013,large,south,supermarket,2347.27
+PRD0808,18.88,Low Fat,0.0309,snacks,163.85,STR105,2001,medium,west,supermarket,1535.38
+PRD0809,11.76,Low Fat,0.0057,dairy,82.09,STR104,2003,small,east,supermarket,2327.37
+PRD0810,6.7,Regular,0.0173,snacks,36.84,STR103,2010,high,west,hypermarket,4217.98
+PRD0811,19.77,Low Fat,0.0254,fruits,130.02,STR105,2014,large,west,hypermarket,1524.35
+PRD0812,17.58,Low Fat,0.0437,snacks,97.61,STR102,2017,large,north,hypermarket,2859.96
+PRD0813,6.87,Low Fat,0.0247,household,195.55,STR104,2000,large,west,hypermarket,4127.44
+PRD0814,18.81,Regular,0.0351,frozen,122.51,STR101,2002,large,east,supermarket,2090.65
+PRD0815,18.05,Regular,0.0496,fruits,76.79,STR104,2002,large,south,hypermarket,3389.94
+PRD0816,12.78,Regular,0.0066,dairy,150.6,STR102,2006,small,west,hypermarket,1605.34
+PRD0817,13.87,Regular,0.0137,household,76.15,STR103,2000,high,south,hypermarket,991.76
+PRD0818,10.99,Low Fat,0.0197,snacks,183.72,STR101,2010,large,west,supermarket,4074.73
+PRD0819,5.82,Low Fat,0.0211,snacks,93.7,STR101,2005,high,south,hypermarket,945.36
+PRD0820,10.03,Regular,0.0206,frozen,123.48,STR103,2019,medium,west,hypermarket,1721.22
+PRD0821,17.04,Regular,0.0454,dairy,38.6,STR104,2002,large,north,supermarket,4347.99
+PRD0822,5.07,Low Fat,0.0357,dairy,102.44,STR105,2018,large,south,supermarket,2059.11
+PRD0823,10.0,Low Fat,0.0304,drinks,171.5,STR104,2001,high,west,hypermarket,4878.7
+PRD0824,10.97,Regular,0.0155,dairy,166.96,STR102,2017,large,west,hypermarket,4908.8
+PRD0825,13.06,Regular,0.0412,frozen,68.13,STR105,2011,large,north,supermarket,1707.24
+PRD0826,18.8,Regular,0.0478,drinks,68.43,STR104,2009,large,north,hypermarket,684.4
+PRD0827,10.2,Regular,0.0411,drinks,168.94,STR103,2004,small,north,supermarket,3672.78
+PRD0828,10.2,Low Fat,0.0001,snacks,188.17,STR102,2008,small,south,hypermarket,2529.44
+PRD0829,16.06,Low Fat,0.0318,snacks,46.21,STR102,2001,large,south,hypermarket,953.39
+PRD0830,11.78,Low Fat,0.0026,dairy,106.51,STR102,2001,small,north,hypermarket,3683.85
+PRD0831,8.37,Regular,0.0129,drinks,87.37,STR105,2005,medium,east,hypermarket,640.29
+PRD0832,11.79,Regular,0.003,snacks,178.02,STR101,2009,large,east,hypermarket,4415.89
+PRD0833,7.11,Low Fat,0.0302,frozen,44.2,STR105,2017,medium,west,supermarket,1123.94
+PRD0834,7.65,Low Fat,0.0343,snacks,65.89,STR104,2011,high,east,supermarket,1072.9
+PRD0835,12.48,Low Fat,0.0057,fruits,157.92,STR101,2003,medium,west,hypermarket,1290.53
+PRD0836,11.28,Low Fat,0.0192,fruits,38.72,STR104,2020,high,south,hypermarket,4821.2
+PRD0837,18.72,Regular,0.0228,snacks,113.73,STR101,2016,large,south,hypermarket,3619.26
+PRD0838,10.44,Low Fat,0.0185,drinks,105.16,STR105,2014,high,east,supermarket,4106.17
+PRD0839,13.71,Low Fat,0.0061,drinks,86.85,STR102,2005,high,south,supermarket,2289.36
+PRD0840,14.48,Low Fat,0.0209,household,97.08,STR103,2015,medium,north,supermarket,2013.41
+PRD0841,5.2,Low Fat,0.0376,fruits,120.09,STR102,2016,medium,north,supermarket,1555.18
+PRD0842,14.95,Low Fat,0.0036,frozen,57.43,STR105,2002,medium,east,supermarket,2662.92
+PRD0843,7.67,Low Fat,0.004,drinks,127.24,STR101,2009,large,east,supermarket,2983.23
+PRD0844,19.42,Low Fat,0.0177,dairy,166.92,STR102,2004,large,west,supermarket,3342.99
+PRD0845,7.23,Regular,0.0471,fruits,159.23,STR105,2013,medium,south,supermarket,1657.03
+PRD0846,11.22,Regular,0.0334,frozen,56.16,STR104,2020,large,west,hypermarket,4768.94
+PRD0847,6.28,Regular,0.0339,frozen,55.37,STR103,2012,large,west,supermarket,1263.91
+PRD0848,19.95,Regular,0.0181,drinks,75.59,STR102,2005,high,north,supermarket,4845.44
+PRD0849,12.53,Low Fat,0.0297,frozen,91.38,STR101,2011,high,north,supermarket,566.85
+PRD0850,13.93,Regular,0.0005,drinks,99.44,STR104,2007,medium,north,supermarket,2665.07
+PRD0851,6.01,Regular,0.0318,snacks,145.55,STR105,2004,large,north,hypermarket,2000.16
+PRD0852,16.25,Low Fat,0.0457,fruits,39.64,STR103,2014,high,west,supermarket,2521.06
+PRD0853,8.15,Low Fat,0.0306,household,35.89,STR101,2015,small,north,hypermarket,3067.99
+PRD0854,18.47,Regular,0.0437,snacks,96.62,STR105,2000,large,south,hypermarket,2460.15
+PRD0855,8.08,Regular,0.0362,fruits,148.52,STR105,2015,small,north,hypermarket,2366.81
+PRD0856,7.86,Low Fat,0.006,drinks,62.88,STR102,2004,medium,north,supermarket,3797.26
+PRD0857,5.55,Regular,0.0451,fruits,139.06,STR102,2002,large,north,supermarket,3586.44
+PRD0858,12.08,Low Fat,0.0033,drinks,74.17,STR101,2019,medium,east,supermarket,4249.72
+PRD0859,13.47,Low Fat,0.0267,snacks,180.63,STR105,2014,medium,south,hypermarket,1624.82
+PRD0860,5.99,Low Fat,0.0071,dairy,182.27,STR102,2012,medium,south,hypermarket,3242.88
+PRD0861,16.63,Low Fat,0.0006,dairy,80.54,STR103,2015,medium,west,hypermarket,3133.38
+PRD0862,11.8,Regular,0.0211,fruits,69.1,STR103,2010,medium,west,hypermarket,2163.82
+PRD0863,12.87,Low Fat,0.0148,dairy,99.92,STR105,2020,large,north,supermarket,2687.26
+PRD0864,11.61,Low Fat,0.0243,drinks,70.89,STR102,2001,small,east,supermarket,1912.02
+PRD0865,11.01,Regular,0.0289,frozen,144.31,STR101,2005,large,west,supermarket,1138.3
+PRD0866,13.39,Low Fat,0.0022,drinks,170.43,STR101,2005,large,west,hypermarket,1462.11
+PRD0867,7.33,Regular,0.0062,frozen,144.43,STR101,2013,large,north,hypermarket,974.81
+PRD0868,7.73,Regular,0.0279,snacks,170.14,STR103,2010,high,north,supermarket,3573.81
+PRD0869,17.93,Regular,0.0172,household,97.49,STR102,2007,high,west,supermarket,3473.27
+PRD0870,19.19,Low Fat,0.0365,frozen,56.57,STR102,2007,large,west,hypermarket,4777.73
+PRD0871,10.6,Regular,0.0326,dairy,155.45,STR103,2000,small,south,supermarket,3783.55
+PRD0872,9.06,Regular,0.0423,drinks,91.28,STR101,2020,large,east,supermarket,734.21
+PRD0873,14.66,Low Fat,0.0346,snacks,144.12,STR101,2006,medium,south,hypermarket,4479.1
+PRD0874,11.13,Regular,0.0215,dairy,76.01,STR105,2005,high,west,hypermarket,4382.04
+PRD0875,5.38,Regular,0.0336,snacks,43.81,STR104,2020,high,south,hypermarket,2494.94
+PRD0876,7.34,Regular,0.0138,household,198.74,STR102,2007,large,south,supermarket,3136.38
+PRD0877,15.74,Regular,0.0153,drinks,56.55,STR102,2018,large,west,hypermarket,4892.35
+PRD0878,14.88,Regular,0.0394,fruits,198.03,STR102,2020,small,north,supermarket,2895.37
+PRD0879,5.41,Low Fat,0.0223,drinks,196.14,STR104,2019,small,west,supermarket,4573.95
+PRD0880,8.33,Regular,0.0399,household,164.95,STR105,2007,medium,north,hypermarket,873.67
+PRD0881,8.47,Regular,0.0411,drinks,142.1,STR104,2013,large,west,supermarket,1359.73
+PRD0882,15.08,Low Fat,0.0429,fruits,128.23,STR101,2017,large,west,hypermarket,2483.4
+PRD0883,5.3,Low Fat,0.0458,frozen,177.24,STR101,2015,large,west,hypermarket,3131.41
+PRD0884,6.56,Low Fat,0.0215,snacks,79.2,STR102,2008,high,east,supermarket,4173.03
+PRD0885,17.0,Regular,0.0159,fruits,109.51,STR103,2014,medium,north,supermarket,4947.18
+PRD0886,7.68,Low Fat,0.0291,dairy,135.3,STR102,2009,small,east,hypermarket,2249.83
+PRD0887,14.79,Regular,0.0186,household,99.9,STR103,2015,high,west,hypermarket,713.37
+PRD0888,8.57,Regular,0.0301,frozen,102.67,STR104,2003,high,south,hypermarket,4105.27
+PRD0889,6.49,Low Fat,0.0353,dairy,86.15,STR101,2019,high,east,hypermarket,3219.71
+PRD0890,8.65,Low Fat,0.0344,dairy,125.92,STR103,2012,high,north,hypermarket,1393.44
+PRD0891,15.83,Regular,0.0187,household,174.6,STR104,2004,medium,west,hypermarket,2726.73
+PRD0892,17.84,Low Fat,0.0083,frozen,64.26,STR101,2006,large,east,supermarket,3840.4
+PRD0893,17.45,Regular,0.0215,dairy,188.85,STR103,2008,small,south,supermarket,3966.85
+PRD0894,10.96,Low Fat,0.0071,dairy,147.14,STR102,2007,small,east,supermarket,2748.28
+PRD0895,15.02,Low Fat,0.0445,frozen,169.96,STR102,2015,high,north,supermarket,1873.47
+PRD0896,8.07,Low Fat,0.0173,drinks,124.55,STR102,2005,high,east,hypermarket,4881.84
+PRD0897,9.4,Regular,0.0077,dairy,162.52,STR104,2015,medium,south,supermarket,3485.13
+PRD0898,18.45,Low Fat,0.0013,snacks,32.75,STR102,2005,high,south,supermarket,2337.07
+PRD0899,5.2,Regular,0.0323,frozen,169.12,STR105,2013,small,north,hypermarket,1762.08
+PRD0900,6.28,Regular,0.0318,dairy,36.82,STR101,2020,small,south,supermarket,3789.96
+PRD0901,8.12,Regular,0.017,household,181.29,STR104,2000,large,west,hypermarket,1589.83
+PRD0902,5.4,Regular,0.0036,fruits,198.63,STR102,2008,large,south,hypermarket,1272.69
+PRD0903,7.72,Low Fat,0.0205,snacks,79.99,STR101,2012,small,west,hypermarket,2884.25
+PRD0904,13.75,Regular,0.0156,fruits,65.75,STR103,2018,small,east,hypermarket,1804.94
+PRD0905,11.32,Regular,0.0339,fruits,160.11,STR102,2016,medium,west,hypermarket,3330.07
+PRD0906,18.39,Low Fat,0.0303,dairy,73.01,STR101,2010,medium,west,supermarket,1030.72
+PRD0907,17.26,Regular,0.0182,snacks,177.15,STR105,2007,small,east,supermarket,3447.23
+PRD0908,10.13,Low Fat,0.0109,snacks,47.48,STR103,2004,high,south,supermarket,1774.83
+PRD0909,8.89,Regular,0.0494,drinks,51.41,STR105,2009,large,west,hypermarket,501.09
+PRD0910,10.7,Low Fat,0.0227,fruits,196.46,STR101,2006,small,south,supermarket,1071.21
+PRD0911,13.85,Regular,0.0344,snacks,144.55,STR105,2009,high,east,supermarket,4701.27
+PRD0912,9.02,Low Fat,0.007,drinks,173.97,STR101,2003,small,north,supermarket,4403.1
+PRD0913,14.36,Regular,0.0243,frozen,85.14,STR101,2008,large,south,supermarket,1551.24
+PRD0914,11.14,Regular,0.0014,drinks,145.0,STR105,2013,large,south,hypermarket,4002.67
+PRD0915,13.28,Low Fat,0.0253,household,131.02,STR101,2001,medium,north,supermarket,3238.57
+PRD0916,11.54,Low Fat,0.0482,dairy,132.54,STR102,2008,medium,north,hypermarket,4869.07
+PRD0917,9.42,Low Fat,0.0192,frozen,146.03,STR101,2020,medium,east,hypermarket,2181.23
+PRD0918,19.23,Low Fat,0.0019,frozen,127.81,STR104,2000,medium,south,supermarket,3566.57
+PRD0919,16.45,Regular,0.0015,household,102.94,STR101,2009,large,south,hypermarket,785.91
+PRD0920,7.1,Regular,0.0194,drinks,76.91,STR104,2009,high,east,hypermarket,2283.11
+PRD0921,18.03,Low Fat,0.008,dairy,160.66,STR101,2019,high,south,hypermarket,4837.18
+PRD0922,12.31,Regular,0.0012,drinks,68.47,STR101,2002,high,west,hypermarket,2925.41
+PRD0923,18.42,Low Fat,0.0378,snacks,147.7,STR105,2005,small,west,hypermarket,1795.46
+PRD0924,17.0,Low Fat,0.0229,drinks,69.67,STR102,2005,medium,west,hypermarket,1041.22
+PRD0925,11.38,Regular,0.0145,frozen,136.31,STR102,2020,medium,south,hypermarket,3665.88
+PRD0926,5.34,Regular,0.045,dairy,157.0,STR103,2001,large,west,supermarket,3401.85
+PRD0927,9.03,Regular,0.0058,drinks,67.18,STR105,2017,large,west,supermarket,2182.72
+PRD0928,13.12,Regular,0.0478,dairy,40.19,STR105,2001,small,east,hypermarket,4779.24
+PRD0929,14.5,Regular,0.0157,dairy,52.27,STR102,2011,small,east,hypermarket,599.91
+PRD0930,8.87,Regular,0.0444,snacks,133.02,STR105,2004,high,north,supermarket,1866.76
+PRD0931,7.09,Regular,0.0301,snacks,174.41,STR102,2019,large,north,supermarket,4644.81
+PRD0932,17.52,Low Fat,0.0413,frozen,37.65,STR105,2006,medium,north,supermarket,1944.21
+PRD0933,19.77,Low Fat,0.0492,household,154.81,STR101,2015,high,north,supermarket,1635.14
+PRD0934,12.89,Low Fat,0.0144,dairy,88.02,STR102,2019,medium,east,hypermarket,2903.99
+PRD0935,7.58,Low Fat,0.0481,household,111.35,STR102,2000,high,east,hypermarket,4207.11
+PRD0936,9.08,Low Fat,0.0195,frozen,187.91,STR104,2000,medium,east,supermarket,964.16
+PRD0937,5.28,Regular,0.0193,dairy,86.44,STR105,2016,small,west,supermarket,4743.59
+PRD0938,18.71,Low Fat,0.017,dairy,109.11,STR105,2000,high,west,supermarket,4077.83
+PRD0939,6.77,Low Fat,0.0271,fruits,32.33,STR102,2020,medium,north,supermarket,1315.63
+PRD0940,13.65,Low Fat,0.0077,household,43.87,STR101,2019,medium,west,hypermarket,3704.04
+PRD0941,9.11,Low Fat,0.0277,drinks,73.96,STR101,2012,large,south,supermarket,2232.31
+PRD0942,13.31,Low Fat,0.0271,snacks,34.73,STR101,2008,high,east,supermarket,2310.33
+PRD0943,14.77,Low Fat,0.0381,drinks,137.33,STR105,2014,medium,north,supermarket,4024.81
+PRD0944,17.45,Low Fat,0.0417,household,102.49,STR104,2002,large,north,hypermarket,4832.53
+PRD0945,8.1,Regular,0.022,snacks,123.18,STR102,2013,medium,south,hypermarket,1069.95
+PRD0946,5.16,Regular,0.0151,drinks,59.69,STR103,2010,high,west,hypermarket,2392.84
+PRD0947,7.05,Low Fat,0.013,fruits,80.31,STR104,2011,small,north,supermarket,2664.24
+PRD0948,18.5,Regular,0.0097,snacks,142.85,STR103,2012,high,west,supermarket,2193.4
+PRD0949,18.11,Regular,0.0029,dairy,194.1,STR104,2012,high,west,supermarket,2134.35
+PRD0950,13.96,Regular,0.0171,drinks,38.57,STR101,2000,medium,south,hypermarket,735.21
+PRD0951,14.01,Regular,0.0135,snacks,181.37,STR105,2009,medium,north,hypermarket,3584.92
+PRD0952,14.98,Low Fat,0.0483,fruits,128.07,STR103,2002,high,west,supermarket,2462.96
+PRD0953,7.63,Regular,0.0279,snacks,125.87,STR104,2003,large,west,supermarket,1376.57
+PRD0954,18.72,Regular,0.0174,snacks,115.05,STR105,2015,large,south,hypermarket,4172.15
+PRD0955,11.28,Regular,0.029,fruits,41.8,STR103,2007,large,south,supermarket,4111.52
+PRD0956,10.75,Low Fat,0.007,drinks,45.28,STR102,2015,medium,west,supermarket,2688.76
+PRD0957,12.78,Low Fat,0.0222,frozen,132.16,STR104,2016,medium,south,supermarket,1843.03
+PRD0958,5.7,Low Fat,0.0313,drinks,87.96,STR102,2018,high,west,hypermarket,3371.42
+PRD0959,7.49,Low Fat,0.0244,household,185.94,STR101,2014,small,north,supermarket,1796.68
+PRD0960,16.07,Low Fat,0.0201,fruits,99.12,STR102,2015,medium,east,supermarket,1562.04
+PRD0961,6.24,Low Fat,0.0497,drinks,54.36,STR102,2014,high,south,supermarket,3787.32
+PRD0962,14.05,Low Fat,0.044,snacks,151.5,STR104,2001,high,east,supermarket,681.46
+PRD0963,8.68,Regular,0.0312,fruits,79.87,STR101,2010,small,west,hypermarket,926.46
+PRD0964,10.84,Regular,0.0285,dairy,119.33,STR102,2000,large,west,hypermarket,530.55
+PRD0965,9.33,Regular,0.031,drinks,148.63,STR105,2014,high,west,hypermarket,1188.24
+PRD0966,10.34,Low Fat,0.0101,fruits,183.04,STR103,2018,high,east,supermarket,810.46
+PRD0967,15.79,Low Fat,0.0198,drinks,164.67,STR102,2003,high,west,hypermarket,4981.11
+PRD0968,9.46,Low Fat,0.002,fruits,144.98,STR101,2010,large,south,supermarket,1799.64
+PRD0969,13.5,Low Fat,0.0238,snacks,145.54,STR102,2004,large,north,hypermarket,1171.71
+PRD0970,12.14,Low Fat,0.0272,dairy,190.81,STR103,2002,small,north,supermarket,1584.48
+PRD0971,14.96,Regular,0.0114,dairy,80.29,STR101,2012,medium,south,hypermarket,4712.57
+PRD0972,19.05,Regular,0.0482,household,30.19,STR104,2009,large,north,hypermarket,2840.72
+PRD0973,15.99,Low Fat,0.0455,fruits,76.23,STR101,2010,medium,east,hypermarket,2141.68
+PRD0974,8.22,Low Fat,0.0361,drinks,67.04,STR104,2017,medium,west,supermarket,4430.26
+PRD0975,5.47,Low Fat,0.0267,dairy,142.51,STR101,2001,large,west,supermarket,2277.46
+PRD0976,8.93,Low Fat,0.0435,dairy,137.73,STR103,2006,high,west,supermarket,2007.54
+PRD0977,13.93,Regular,0.0065,frozen,130.89,STR103,2008,small,east,hypermarket,1432.77
+PRD0978,5.77,Low Fat,0.0395,frozen,32.76,STR101,2009,medium,east,supermarket,2200.09
+PRD0979,12.45,Low Fat,0.0062,dairy,153.89,STR102,2017,high,east,supermarket,1925.08
+PRD0980,13.95,Low Fat,0.0397,fruits,85.0,STR103,2006,large,south,supermarket,3547.87
+PRD0981,10.01,Low Fat,0.0138,household,143.06,STR104,2006,medium,east,supermarket,1803.12
+PRD0982,16.56,Regular,0.0439,dairy,124.62,STR104,2002,medium,north,supermarket,3097.4
+PRD0983,6.6,Low Fat,0.0472,snacks,88.26,STR105,2011,medium,south,supermarket,796.51
+PRD0984,6.13,Low Fat,0.0074,drinks,52.88,STR104,2006,high,south,hypermarket,1360.8
+PRD0985,15.92,Regular,0.0231,household,46.05,STR105,2016,high,south,hypermarket,2333.32
+PRD0986,12.43,Regular,0.049,snacks,171.36,STR101,2000,high,east,supermarket,4716.27
+PRD0987,15.33,Regular,0.0242,household,186.13,STR101,2004,medium,south,hypermarket,2197.63
+PRD0988,11.52,Low Fat,0.0432,snacks,140.46,STR101,2015,medium,east,hypermarket,3488.33
+PRD0989,8.7,Low Fat,0.0294,drinks,47.58,STR102,2014,small,east,supermarket,1647.89
+PRD0990,17.29,Regular,0.0188,drinks,98.34,STR102,2001,small,south,supermarket,1071.65
+PRD0991,16.99,Regular,0.0143,frozen,153.92,STR105,2008,high,west,hypermarket,763.41
+PRD0992,15.42,Regular,0.0102,fruits,162.57,STR104,2006,high,west,supermarket,1874.36
+PRD0993,9.08,Regular,0.0381,snacks,50.1,STR104,2003,large,south,hypermarket,1209.47
+PRD0994,13.85,Regular,0.0193,frozen,30.01,STR101,2019,high,west,hypermarket,1283.05
+PRD0995,10.41,Regular,0.0256,snacks,151.06,STR103,2017,small,north,hypermarket,3923.42
+PRD0996,6.37,Low Fat,0.0246,frozen,90.62,STR102,2020,small,north,supermarket,571.27
+PRD0997,18.76,Low Fat,0.0289,drinks,73.26,STR102,2003,small,east,hypermarket,3010.15
+PRD0998,7.05,Low Fat,0.0433,household,32.19,STR101,2012,medium,west,supermarket,2207.58
+PRD0999,19.25,Regular,0.049,frozen,121.85,STR102,2000,medium,north,supermarket,2779.47
+PRD1000,11.69,Regular,0.0204,snacks,174.7,STR101,2002,high,south,supermarket,3032.74
